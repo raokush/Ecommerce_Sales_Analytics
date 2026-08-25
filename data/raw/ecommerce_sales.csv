@@ -1,0 +1,1002 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Quantity,Unit_Price,Product_Cost,Discount,Payment_Method,Region,City,Order_Status,Shipping_Cost
+ORD10001,2025-12-15,CUST189,Backpack,Accessories,3,1800,1100,10.0,Cash on Delivery,West,Mumbai,Returned,121
+ORD10002,2025-08-03,CUST100,Coffee Maker,Home Appliances,3,4500,3000,10.0,Debit Card,North,Jaipur,Cancelled,137
+ORD10003,2025-12-10,CUST277,Office Chair,Furniture,4,8500,6000,5.0,UPI,North,Lucknow,Delivered,241
+ORD10004,2025-09-10,CUST059,Coffee Maker,Home Appliances,4,4500,3000,0.0,Credit Card,West,Ahmedabad,Delivered,98
+ORD10005,2025-12-30,CUST131,Bookshelf,Furniture,3,7000,4800,15.0,Cash on Delivery,North,Jaipur,Delivered,369
+ORD10006,2025-11-25,CUST089,Backpack,Accessories,3,1800,1100,5.0,Net Banking,West,Pune,Cancelled,437
+ORD10007,2025-09-22,CUST092,Smartphone,Electronics,2,25000,19000,20.0,Net Banking,East,Kolkata,Returned,435
+ORD10008,2025-02-04,CUST050,Bookshelf,Furniture,2,7000,4800,0.0,Net Banking,South,Chennai,Delivered,469
+ORD10009,2025-04-16,CUST218,Desk,Furniture,4,12000,8500,20.0,Net Banking,West,Ahmedabad,Delivered,240
+ORD10010,2025-09-27,CUST296,Coffee Maker,Home Appliances,3,4500,3000,15.0,Cash on Delivery,West,Mumbai,Shipped,239
+ORD10011,2025-10-07,CUST188,Smartphone,Electronics,2,25000,19000,0.0,Net Banking,West,,Shipped,301
+ORD10012,2025-12-11,CUST129,T-Shirt,Fashion,3,900,500,0.0,Net Banking,North,Delhi,Returned,393
+ORD10013,2025-03-22,CUST289,Mixer Grinder,Home Appliances,4,3500,2300,10.0,Debit Card,North,Jaipur,Shipped,468
+ORD10014,2025-02-10,CUST268,Coffee Maker,Home Appliances,4,4500,3000,0.0,Credit Card,South,Bengaluru,Delivered,377
+ORD10015,2025-03-03,CUST172,Backpack,Accessories,4,1800,1100,20.0,Debit Card,South,Bengaluru,Delivered,148
+ORD10016,2025-04-11,CUST005,Laptop,Electronics,3,55000,42000,10.0,Credit Card,North,Jaipur,Returned,306
+ORD10017,2025-07-26,CUST179,Backpack,Accessories,3,1800,1100,5.0,UPI,East,Patna,Delivered,91
+ORD10018,2025-08-19,CUST036,Smartwatch,Electronics,1,5000,3300,10.0,Cash on Delivery,West,Pune,Returned,78
+ORD10019,2025-03-27,CUST045,Mixer Grinder,Home Appliances,4,3500,2300,5.0,UPI,North,Jaipur,Shipped,219
+ORD10020,2025-01-28,CUST286,Desk,Furniture,4,12000,8500,15.0,Debit Card,East,Bhubaneswar,Delivered,389
+ORD10021,2025-08-19,CUST283,Backpack,Accessories,2,1800,1100,0.0,UPI,East,Bhubaneswar,Delivered,434
+ORD10022,2025-12-25,CUST165,T-Shirt,Fashion,2,900,500,10.0,UPI,North,Jaipur,Delivered,186
+ORD10023,2025-06-01,CUST160,Coffee Maker,Home Appliances,3,4500,3000,10.0,UPI,East,Bhubaneswar,Delivered,423
+ORD10024,2025-02-21,CUST113,Laptop,Electronics,4,55000,42000,5.0,Cash on Delivery,North,Delhi,Delivered,436
+ORD10025,2025-07-06,CUST220,Shoes,Fashion,1,3500,2200,5.0,Cash on Delivery,North,Delhi,Delivered,179
+ORD10026,2025-05-06,CUST218,Laptop,Electronics,2,55000,42000,20.0,,North,Jaipur,Returned,221
+ORD10027,2025-05-03,CUST098,Mixer Grinder,Home Appliances,1,3500,2300,20.0,Debit Card,South,Chennai,Returned,421
+ORD10028,2025-05-04,CUST148,Laptop,Electronics,3,55000,42000,20.0,Net Banking,South,Hyderabad,Delivered,308
+ORD10029,2025-12-12,CUST199,Smartwatch,Electronics,3,5000,3300,10.0,Net Banking,North,Jaipur,Delivered,197
+ORD10030,2025-05-08,CUST129,Laptop,Electronics,3,55000,42000,5.0,Debit Card,South,Chennai,Delivered,409
+ORD10031,2025-05-31,CUST263,T-Shirt,Fashion,3,900,500,5.0,Net Banking,South,Hyderabad,Delivered,148
+ORD10032,2025-03-01,CUST254,T-Shirt,Fashion,1,900,500,5.0,Net Banking,West,Mumbai,Shipped,434
+ORD10033,2025-01-09,CUST208,Office Chair,Furniture,1,8500,6000,10.0,Debit Card,East,Patna,Delivered,196
+ORD10034,2025-04-30,CUST113,Shoes,Fashion,1,3500,2200,15.0,Net Banking,West,Ahmedabad,Cancelled,124
+ORD10035,2025-09-11,CUST153,Shoes,Fashion,3,3500,2200,0.0,Cash on Delivery,West,Mumbai,Delivered,148
+ORD10036,2025-11-06,CUST161,Smartphone,Electronics,3,25000,19000,20.0,Net Banking,North,Lucknow,Delivered,218
+ORD10037,2025-05-15,CUST033,Office Chair,Furniture,3,8500,6000,0.0,Net Banking,West,Mumbai,Delivered,177
+ORD10038,2025-01-22,CUST264,Headphones,Electronics,2,2500,1600,20.0,Debit Card,West,Ahmedabad,Delivered,100
+ORD10039,2025-10-13,CUST147,Smartphone,Electronics,1,25000,19000,15.0,Net Banking,West,Pune,Delivered,416
+ORD10040,2025-06-21,CUST006,Laptop,Electronics,4,55000,42000,20.0,Debit Card,North,Delhi,Delivered,95
+ORD10041,2025-10-07,CUST181,T-Shirt,Fashion,1,900,500,,Debit Card,West,Pune,Delivered,351
+ORD10042,2025-07-10,CUST161,Laptop,Electronics,1,55000,42000,20.0,Debit Card,West,Mumbai,Delivered,465
+ORD10043,2025-08-11,CUST174,T-Shirt,Fashion,2,900,500,5.0,Credit Card,East,Kolkata,Returned,372
+ORD10044,2025-05-07,CUST273,Desk,Furniture,3,12000,8500,5.0,UPI,South,Bengaluru,Delivered,435
+ORD10045,2025-06-25,CUST247,Mixer Grinder,Home Appliances,3,3500,2300,20.0,Credit Card,West,Ahmedabad,Delivered,219
+ORD10046,2025-01-13,CUST036,Smartphone,Electronics,4,25000,19000,5.0,Cash on Delivery,South,Hyderabad,Delivered,440
+ORD10047,2025-05-22,CUST092,Laptop,Electronics,4,55000,42000,10.0,Credit Card,South,Chennai,Delivered,192
+ORD10048,2025-02-20,CUST190,Backpack,Accessories,1,1800,1100,5.0,Cash on Delivery,West,Ahmedabad,Cancelled,112
+ORD10049,2025-12-08,CUST271,Coffee Maker,Home Appliances,1,4500,3000,15.0,Debit Card,East,Kolkata,Delivered,219
+ORD10050,2025-09-21,CUST005,Office Chair,Furniture,1,8500,6000,15.0,Net Banking,North,Delhi,Cancelled,157
+ORD10051,2025-11-07,CUST269,Smartwatch,Electronics,4,5000,3300,15.0,Credit Card,North,Jaipur,Delivered,193
+ORD10052,2025-05-25,CUST058,Coffee Maker,Home Appliances,4,4500,3000,10.0,Credit Card,North,Jaipur,Shipped,141
+ORD10053,2025-11-14,CUST129,Coffee Maker,Home Appliances,3,4500,3000,0.0,Credit Card,West,Pune,Delivered,445
+ORD10054,2025-04-06,CUST272,Laptop,Electronics,2,55000,42000,0.0,Cash on Delivery,North,Lucknow,Returned,286
+ORD10055,2025-12-15,CUST154,Office Chair,Furniture,3,8500,6000,10.0,Debit Card,West,Ahmedabad,Shipped,125
+ORD10056,2025-10-12,CUST047,Desk,Furniture,2,12000,8500,15.0,UPI,South,Hyderabad,Cancelled,118
+ORD10057,2025-07-23,CUST039,Smartwatch,Electronics,4,5000,3300,5.0,Net Banking,West,Pune,Delivered,481
+ORD10058,2025-09-07,CUST290,Office Chair,Furniture,2,8500,6000,20.0,Net Banking,South,Bengaluru,Returned,149
+ORD10059,2025-05-27,CUST004,Coffee Maker,Home Appliances,2,4500,3000,0.0,Credit Card,East,Kolkata,Delivered,374
+ORD10060,2025-12-06,CUST163,Bookshelf,Furniture,4,7000,4800,15.0,Net Banking,East,Patna,Delivered,227
+ORD10061,2025-04-11,CUST168,Laptop,Electronics,4,55000,42000,10.0,Credit Card,North,Jaipur,Delivered,114
+ORD10062,2025-04-05,CUST242,Bookshelf,Furniture,2,7000,4800,5.0,Debit Card,East,Bhubaneswar,Returned,302
+ORD10063,2025-09-21,CUST115,Laptop,Electronics,1,55000,42000,5.0,UPI,East,Kolkata,Returned,139
+ORD10064,2025-04-24,CUST217,Smartwatch,Electronics,1,5000,3300,10.0,Cash on Delivery,East,Kolkata,Shipped,462
+ORD10065,2025-12-23,CUST099,T-Shirt,Fashion,1,900,500,10.0,Net Banking,West,Mumbai,Delivered,226
+ORD10066,2025-04-06,CUST183,Laptop,Electronics,4,55000,42000,20.0,Cash on Delivery,South,Bengaluru,Returned,317
+ORD10067,2025-12-27,CUST062,T-Shirt,Fashion,2,900,500,0.0,Net Banking,North,Jaipur,Delivered,418
+ORD10068,2025-01-19,CUST233,Desk,Furniture,1,12000,8500,15.0,Debit Card,East,Patna,Delivered,445
+ORD10069,2025-10-11,CUST144,T-Shirt,Fashion,2,900,500,15.0,Cash on Delivery,South,Bengaluru,Shipped,388
+ORD10070,2025-01-25,CUST151,Headphones,Electronics,4,2500,1600,10.0,UPI,East,Bhubaneswar,Returned,102
+ORD10071,2025-07-05,CUST163,Office Chair,Furniture,3,8500,6000,5.0,Cash on Delivery,East,Kolkata,Delivered,182
+ORD10072,2025-08-27,CUST253,Mixer Grinder,Home Appliances,4,3500,2300,0.0,Cash on Delivery,North,Lucknow,Delivered,123
+ORD10073,2025-10-10,CUST029,T-Shirt,Fashion,2,900,500,5.0,Cash on Delivery,North,Lucknow,Cancelled,54
+ORD10074,2025-12-31,CUST217,Headphones,Electronics,1,2500,1600,15.0,Cash on Delivery,South,Chennai,Delivered,194
+ORD10075,2025-09-09,CUST182,Smartwatch,Electronics,3,5000,3300,10.0,Debit Card,West,Ahmedabad,Delivered,494
+ORD10076,2025-02-08,CUST141,Coffee Maker,Home Appliances,2,4500,3000,10.0,Credit Card,North,Jaipur,Delivered,222
+ORD10077,2025-11-13,CUST001,Coffee Maker,Home Appliances,3,4500,3000,0.0,Debit Card,West,Mumbai,Shipped,472
+ORD10078,2025-07-10,CUST117,Bookshelf,Furniture,4,7000,4800,0.0,Credit Card,South,Hyderabad,Delivered,458
+ORD10079,2025-08-01,CUST164,Office Chair,Furniture,3,8500,6000,15.0,Debit Card,West,Ahmedabad,Delivered,278
+ORD10080,2025-02-16,CUST143,Smartwatch,Electronics,1,5000,3300,0.0,UPI,South,Hyderabad,Shipped,63
+ORD10081,2025-09-16,CUST224,Desk,Furniture,4,12000,8500,0.0,Net Banking,West,Ahmedabad,Delivered,61
+ORD10082,2025-05-02,CUST136,Office Chair,Furniture,4,8500,6000,15.0,Credit Card,South,Chennai,Delivered,139
+ORD10083,2025-08-08,CUST192,Smartphone,Electronics,1,25000,19000,0.0,Debit Card,East,Bhubaneswar,Cancelled,277
+ORD10084,2025-07-31,CUST046,Laptop,Electronics,1,55000,42000,15.0,Debit Card,South,Hyderabad,Shipped,289
+ORD10085,2025-09-13,CUST010,Desk,Furniture,1,12000,8500,0.0,Credit Card,North,Lucknow,Delivered,499
+ORD10086,2025-10-16,CUST224,Office Chair,Furniture,2,8500,6000,0.0,UPI,South,Bengaluru,Delivered,195
+ORD10087,2025-03-04,CUST177,Office Chair,Furniture,1,8500,6000,10.0,Cash on Delivery,East,Kolkata,Delivered,332
+ORD10088,2025-04-09,CUST006,Smartphone,Electronics,3,25000,19000,0.0,Net Banking,South,Hyderabad,Delivered,454
+ORD10089,2025-12-24,CUST053,Office Chair,Furniture,3,8500,6000,20.0,Cash on Delivery,West,Pune,Delivered,72
+ORD10090,2025-05-25,CUST001,Coffee Maker,Home Appliances,1,4500,3000,0.0,Debit Card,North,Jaipur,Shipped,415
+ORD10091,2025-10-15,CUST072,Smartwatch,Electronics,2,5000,3300,15.0,Credit Card,North,Delhi,Delivered,144
+ORD10092,2025-04-28,CUST268,Smartphone,Electronics,3,25000,19000,10.0,UPI,West,Ahmedabad,Cancelled,355
+ORD10093,2025-08-10,CUST112,Bookshelf,Furniture,3,7000,4800,0.0,Cash on Delivery,West,Pune,Shipped,450
+ORD10094,2025-04-13,CUST294,Smartphone,Electronics,2,25000,19000,15.0,Credit Card,East,Patna,Delivered,275
+ORD10095,2025-11-04,CUST030,Smartphone,Electronics,1,25000,19000,0.0,Credit Card,East,Patna,Delivered,384
+ORD10096,2025-10-12,CUST273,Laptop,Electronics,4,55000,42000,5.0,Net Banking,West,Pune,Delivered,233
+ORD10097,2025-02-03,CUST205,Shoes,Fashion,2,3500,2200,20.0,Debit Card,West,Pune,Delivered,499
+ORD10098,2025-04-21,CUST008,Mixer Grinder,Home Appliances,1,3500,2300,10.0,Net Banking,North,Jaipur,Delivered,423
+ORD10099,2025-07-14,CUST093,Shoes,Fashion,4,3500,2200,10.0,Credit Card,South,Hyderabad,Shipped,204
+ORD10100,2025-10-04,CUST170,Coffee Maker,Home Appliances,1,4500,3000,5.0,Cash on Delivery,North,Jaipur,Cancelled,141
+ORD10101,2025-01-01,CUST046,Office Chair,Furniture,1,8500,6000,0.0,Credit Card,West,Ahmedabad,Delivered,61
+ORD10102,2025-03-14,CUST121,Coffee Maker,Home Appliances,2,4500,3000,0.0,Debit Card,East,Patna,Returned,96
+ORD10103,2025-10-19,CUST253,Laptop,Electronics,1,55000,42000,0.0,Net Banking,East,Kolkata,Returned,404
+ORD10104,2025-01-14,CUST216,Shoes,Fashion,2,3500,2200,15.0,Credit Card,West,Ahmedabad,Shipped,127
+ORD10105,2025-11-08,CUST238,Coffee Maker,Home Appliances,3,4500,3000,10.0,Debit Card,East,Patna,Returned,160
+ORD10106,2025-10-21,CUST192,Bookshelf,Furniture,3,7000,4800,10.0,UPI,North,Lucknow,Returned,64
+ORD10107,2025-07-21,CUST231,Office Chair,Furniture,3,8500,6000,0.0,Credit Card,East,Bhubaneswar,Cancelled,322
+ORD10108,2025-05-25,CUST068,Bookshelf,Furniture,1,7000,4800,15.0,Credit Card,South,Hyderabad,Delivered,74
+ORD10109,2025-04-21,CUST264,T-Shirt,Fashion,4,900,500,5.0,UPI,North,Lucknow,Delivered,160
+ORD10110,2025-04-11,CUST226,Headphones,Electronics,2,2500,1600,15.0,Debit Card,East,Kolkata,Delivered,331
+ORD10111,2025-10-16,CUST070,Desk,Furniture,1,12000,8500,20.0,Net Banking,West,Pune,Cancelled,247
+ORD10112,2025-11-07,CUST031,Mixer Grinder,Home Appliances,1,3500,2300,10.0,Cash on Delivery,South,Chennai,Delivered,292
+ORD10113,2025-11-18,CUST004,Shoes,Fashion,4,3500,2200,15.0,UPI,West,Ahmedabad,Cancelled,124
+ORD10114,2025-03-03,CUST203,Shoes,Fashion,1,3500,2200,5.0,Credit Card,West,Ahmedabad,Delivered,384
+ORD10115,2025-11-22,CUST212,Bookshelf,Furniture,2,7000,4800,15.0,UPI,West,Pune,Delivered,324
+ORD10116,2025-02-16,CUST038,Laptop,Electronics,1,55000,42000,5.0,Cash on Delivery,East,Bhubaneswar,Cancelled,191
+ORD10117,2025-11-29,CUST178,Mixer Grinder,Home Appliances,3,3500,2300,10.0,Credit Card,West,Mumbai,Shipped,210
+ORD10118,2025-06-21,CUST130,Backpack,Accessories,2,1800,1100,20.0,Net Banking,East,Kolkata,Delivered,217
+ORD10119,2025-09-30,CUST038,Office Chair,Furniture,1,8500,6000,10.0,Debit Card,South,Hyderabad,Cancelled,448
+ORD10120,2025-11-14,CUST137,Laptop,Electronics,4,55000,42000,15.0,Credit Card,West,Pune,Delivered,483
+ORD10121,2025-01-01,CUST267,Headphones,Electronics,4,2500,1600,15.0,UPI,North,Jaipur,Shipped,369
+ORD10122,2025-08-01,CUST078,Bookshelf,Furniture,1,7000,4800,20.0,Credit Card,North,Jaipur,Cancelled,388
+ORD10123,2025-08-25,CUST296,Smartwatch,Electronics,2,5000,3300,0.0,Debit Card,South,Hyderabad,Shipped,451
+ORD10124,2025-01-23,CUST145,Desk,Furniture,3,12000,8500,0.0,UPI,North,Delhi,Returned,202
+ORD10125,2025-11-05,CUST198,Backpack,Accessories,4,1800,1100,10.0,Debit Card,North,Lucknow,Returned,88
+ORD10126,2025-02-11,CUST111,Headphones,Electronics,4,2500,1600,15.0,Cash on Delivery,South,Chennai,Delivered,64
+ORD10127,2025-06-06,CUST289,Smartwatch,Electronics,2,5000,3300,0.0,Net Banking,South,Bengaluru,Cancelled,146
+ORD10128,2025-01-05,CUST118,Smartphone,Electronics,3,25000,19000,5.0,Cash on Delivery,East,Kolkata,Returned,402
+ORD10129,2025-07-03,CUST261,Smartwatch,Electronics,3,5000,3300,20.0,Cash on Delivery,South,Chennai,Returned,185
+ORD10130,2025-06-22,CUST115,Smartwatch,Electronics,2,5000,3300,10.0,Debit Card,East,Bhubaneswar,Delivered,144
+ORD10131,2025-10-26,CUST011,Smartwatch,Electronics,3,5000,3300,20.0,Credit Card,East,Kolkata,Cancelled,197
+ORD10132,2025-01-23,CUST218,Desk,Furniture,3,12000,8500,5.0,Cash on Delivery,South,Chennai,Cancelled,351
+ORD10133,2025-04-21,CUST133,Smartphone,Electronics,4,25000,19000,15.0,Cash on Delivery,South,Hyderabad,Returned,220
+ORD10134,2025-04-02,CUST051,Coffee Maker,Home Appliances,3,4500,3000,5.0,Cash on Delivery,North,Delhi,Cancelled,442
+ORD10135,2025-08-02,CUST101,Shoes,Fashion,3,3500,2200,0.0,Cash on Delivery,South,Hyderabad,Delivered,351
+ORD10136,2025-11-09,CUST149,Smartwatch,Electronics,1,5000,3300,10.0,UPI,West,Ahmedabad,Shipped,473
+ORD10137,2025-11-09,CUST291,T-Shirt,Fashion,1,900,500,5.0,Net Banking,East,Kolkata,Delivered,474
+ORD10138,2025-10-21,CUST017,Coffee Maker,Home Appliances,2,4500,3000,5.0,Debit Card,East,Patna,Delivered,467
+ORD10139,2025-06-28,CUST198,Bookshelf,Furniture,2,7000,4800,0.0,Cash on Delivery,East,Patna,Delivered,229
+ORD10140,2025-05-30,CUST049,Laptop,Electronics,2,55000,42000,15.0,UPI,East,Patna,Delivered,419
+ORD10141,2025-05-28,CUST189,T-Shirt,Fashion,2,900,500,15.0,UPI,North,Delhi,Returned,112
+ORD10142,2025-07-30,CUST286,Laptop,Electronics,2,55000,42000,20.0,Debit Card,South,Bengaluru,Delivered,354
+ORD10143,2025-06-24,CUST114,Laptop,Electronics,2,55000,42000,5.0,Debit Card,North,Jaipur,Returned,162
+ORD10144,2025-09-21,CUST266,Smartwatch,Electronics,1,5000,3300,10.0,Credit Card,North,Delhi,Delivered,337
+ORD10145,2025-03-28,CUST178,Smartphone,Electronics,3,25000,19000,15.0,Cash on Delivery,East,Bhubaneswar,Delivered,337
+ORD10146,2025-11-19,CUST054,T-Shirt,Fashion,4,900,500,10.0,UPI,South,Bengaluru,Returned,304
+ORD10147,2025-02-20,CUST291,Office Chair,Furniture,1,8500,6000,15.0,Debit Card,North,Jaipur,Delivered,313
+ORD10148,2025-07-01,CUST263,Smartwatch,Electronics,1,5000,3300,5.0,UPI,West,Pune,Returned,56
+ORD10149,2025-04-22,CUST285,Office Chair,Furniture,1,8500,6000,10.0,Net Banking,North,Jaipur,Delivered,85
+ORD10150,2025-10-30,CUST234,Smartphone,Electronics,1,25000,19000,15.0,Credit Card,North,Delhi,Delivered,60
+ORD10151,2025-01-20,CUST256,Backpack,Accessories,1,1800,1100,20.0,UPI,South,Bengaluru,Delivered,471
+ORD10152,2025-12-21,CUST280,Office Chair,Furniture,4,8500,6000,5.0,UPI,East,Bhubaneswar,Delivered,391
+ORD10153,2025-08-03,CUST115,Shoes,Fashion,4,3500,2200,0.0,UPI,East,Patna,Cancelled,419
+ORD10154,2025-08-25,CUST278,T-Shirt,Fashion,1,900,500,0.0,Debit Card,South,Chennai,Cancelled,295
+ORD10155,2025-01-29,CUST293,Smartwatch,Electronics,1,5000,3300,5.0,Debit Card,East,Kolkata,Cancelled,264
+ORD10156,2025-02-11,CUST034,Smartphone,Electronics,4,25000,19000,0.0,UPI,West,Pune,Shipped,471
+ORD10157,2025-03-17,CUST027,T-Shirt,Fashion,3,900,500,20.0,UPI,West,Ahmedabad,Returned,411
+ORD10158,2025-06-17,CUST173,Desk,Furniture,2,12000,8500,15.0,UPI,East,Patna,Delivered,286
+ORD10159,2025-07-09,CUST193,Office Chair,Furniture,2,8500,6000,5.0,Debit Card,East,Bhubaneswar,Shipped,359
+ORD10160,2025-10-09,CUST296,Smartwatch,Electronics,1,5000,3300,20.0,Debit Card,North,Jaipur,Delivered,316
+ORD10161,2025-10-22,CUST098,Laptop,Electronics,4,55000,42000,10.0,Cash on Delivery,East,Patna,Delivered,359
+ORD10162,2025-08-27,CUST244,Coffee Maker,Home Appliances,4,4500,3000,10.0,Debit Card,West,Mumbai,Delivered,276
+ORD10163,2025-07-20,CUST201,Mixer Grinder,Home Appliances,2,3500,2300,5.0,UPI,East,Patna,Delivered,122
+ORD10164,2025-04-14,CUST291,T-Shirt,Fashion,2,900,500,0.0,Debit Card,East,Patna,Delivered,88
+ORD10165,2025-06-21,CUST275,Office Chair,Furniture,3,8500,6000,5.0,Cash on Delivery,East,Bhubaneswar,Delivered,61
+ORD10166,2025-11-01,CUST057,Mixer Grinder,Home Appliances,1,3500,2300,0.0,UPI,East,Patna,Returned,379
+ORD10167,2025-12-05,CUST215,Bookshelf,Furniture,4,7000,4800,20.0,Cash on Delivery,South,Chennai,Cancelled,130
+ORD10168,2025-01-25,CUST143,Desk,Furniture,2,12000,8500,0.0,Debit Card,South,Chennai,Delivered,317
+ORD10169,2025-02-16,CUST199,T-Shirt,Fashion,4,900,500,5.0,UPI,East,Kolkata,Returned,65
+ORD10170,2025-03-27,CUST137,Coffee Maker,Home Appliances,2,4500,3000,20.0,Debit Card,West,Pune,Delivered,56
+ORD10171,2025-03-23,CUST103,Mixer Grinder,Home Appliances,3,3500,2300,15.0,UPI,South,Bengaluru,Cancelled,472
+ORD10172,2025-04-18,CUST131,Shoes,Fashion,4,3500,2200,20.0,Cash on Delivery,North,Jaipur,Delivered,147
+ORD10173,2025-07-02,CUST015,Shoes,Fashion,3,3500,2200,15.0,UPI,East,Kolkata,Delivered,88
+ORD10174,2025-07-29,CUST108,Desk,Furniture,1,12000,8500,20.0,Credit Card,South,Hyderabad,Returned,475
+ORD10175,2025-02-03,CUST269,Headphones,Electronics,2,2500,1600,10.0,Cash on Delivery,East,Kolkata,Delivered,296
+ORD10176,2025-02-08,CUST245,Headphones,Electronics,2,2500,1600,15.0,Net Banking,East,Patna,Delivered,78
+ORD10177,2025-08-27,CUST065,Shoes,Fashion,1,3500,2200,5.0,UPI,East,Bhubaneswar,Delivered,463
+ORD10178,2025-11-20,CUST193,Shoes,Fashion,2,3500,2200,20.0,Cash on Delivery,North,Lucknow,Cancelled,202
+ORD10179,2025-12-10,CUST293,T-Shirt,Fashion,4,900,500,15.0,Cash on Delivery,North,Delhi,Shipped,236
+ORD10180,2025-07-17,CUST226,Mixer Grinder,Home Appliances,3,3500,2300,10.0,UPI,East,Bhubaneswar,Returned,111
+ORD10181,2025-02-28,CUST063,Smartwatch,Electronics,4,5000,3300,15.0,Cash on Delivery,West,Mumbai,Delivered,398
+ORD10182,2025-08-14,CUST241,Coffee Maker,Home Appliances,1,4500,3000,5.0,Credit Card,East,Patna,Delivered,474
+ORD10183,2025-01-05,CUST099,Shoes,Fashion,1,3500,2200,0.0,Net Banking,West,Ahmedabad,Delivered,58
+ORD10184,2025-06-27,CUST003,Laptop,Electronics,2,55000,42000,0.0,Debit Card,East,Patna,Cancelled,265
+ORD10185,2025-11-25,CUST267,Shoes,Fashion,4,3500,2200,20.0,UPI,South,Hyderabad,Delivered,147
+ORD10186,2025-01-29,CUST226,Mixer Grinder,Home Appliances,1,3500,2300,10.0,Net Banking,East,Bhubaneswar,Delivered,458
+ORD10187,2025-01-25,CUST226,T-Shirt,Fashion,1,900,500,10.0,Net Banking,South,Chennai,Returned,492
+ORD10188,2025-09-08,CUST037,Desk,Furniture,1,12000,8500,5.0,Net Banking,South,Chennai,Shipped,451
+ORD10189,2025-03-22,CUST115,Bookshelf,Furniture,2,7000,4800,20.0,Credit Card,West,Pune,Delivered,273
+ORD10190,2025-12-20,CUST289,Shoes,Fashion,4,3500,2200,10.0,Debit Card,South,Chennai,Delivered,286
+ORD10191,2025-02-28,CUST045,Laptop,Electronics,4,55000,42000,0.0,UPI,East,Patna,Shipped,318
+ORD10192,2025-07-10,CUST133,Coffee Maker,Home Appliances,3,4500,3000,15.0,Debit Card,West,Mumbai,Shipped,56
+ORD10193,2025-01-31,CUST160,Coffee Maker,Home Appliances,3,4500,3000,5.0,Debit Card,South,Hyderabad,Shipped,443
+ORD10194,2025-12-22,CUST295,Backpack,Accessories,2,1800,1100,20.0,Credit Card,North,Lucknow,Shipped,61
+ORD10195,2025-08-21,CUST163,Mixer Grinder,Home Appliances,1,3500,2300,5.0,Debit Card,North,Delhi,Cancelled,237
+ORD10196,2025-08-21,CUST060,Backpack,Accessories,4,1800,1100,5.0,Cash on Delivery,East,Kolkata,Shipped,368
+ORD10197,2025-12-18,CUST219,Desk,Furniture,4,12000,8500,5.0,UPI,West,Mumbai,Delivered,373
+ORD10198,2025-07-12,CUST210,Desk,Furniture,2,12000,8500,5.0,Credit Card,North,Delhi,Cancelled,169
+ORD10199,2025-09-08,CUST007,Bookshelf,Furniture,3,7000,4800,15.0,Cash on Delivery,West,Mumbai,Delivered,430
+ORD10200,2025-03-20,CUST026,Laptop,Electronics,4,55000,42000,10.0,Credit Card,West,Ahmedabad,Cancelled,107
+ORD10201,2025-04-09,CUST271,Smartphone,Electronics,1,25000,19000,0.0,Cash on Delivery,West,Mumbai,Shipped,88
+ORD10202,2025-10-15,CUST027,Mixer Grinder,Home Appliances,2,3500,2300,15.0,Debit Card,West,Mumbai,Delivered,71
+ORD10203,2025-04-02,CUST084,Bookshelf,Furniture,1,7000,4800,20.0,Debit Card,South,Chennai,Delivered,352
+ORD10204,2025-09-14,CUST015,Office Chair,Furniture,2,8500,6000,15.0,Credit Card,North,Jaipur,Shipped,471
+ORD10205,2025-10-08,CUST271,Headphones,Electronics,4,2500,1600,15.0,Net Banking,North,Delhi,Delivered,323
+ORD10206,2025-05-25,CUST079,Shoes,Fashion,1,3500,2200,20.0,Debit Card,East,Bhubaneswar,Cancelled,57
+ORD10207,2025-07-18,CUST181,Smartphone,Electronics,3,25000,19000,20.0,Net Banking,West,Mumbai,Delivered,497
+ORD10208,2025-02-15,CUST206,Headphones,Electronics,3,2500,1600,0.0,UPI,West,Mumbai,Cancelled,271
+ORD10209,2025-08-16,CUST214,Bookshelf,Furniture,1,7000,4800,0.0,Cash on Delivery,West,Mumbai,Shipped,493
+ORD10210,2025-03-13,CUST072,Smartphone,Electronics,3,25000,19000,20.0,Cash on Delivery,South,Chennai,Delivered,258
+ORD10211,2025-02-01,CUST289,Smartphone,Electronics,3,25000,19000,20.0,Net Banking,West,Ahmedabad,Cancelled,266
+ORD10212,2025-09-24,CUST041,T-Shirt,Fashion,2,900,500,10.0,UPI,South,Chennai,Delivered,137
+ORD10213,2025-03-27,CUST202,T-Shirt,Fashion,4,900,500,15.0,Credit Card,West,Ahmedabad,Delivered,210
+ORD10214,2025-08-13,CUST077,Laptop,Electronics,1,55000,42000,0.0,Net Banking,North,Lucknow,Delivered,463
+ORD10215,2025-07-13,CUST122,Desk,Furniture,2,12000,8500,5.0,Credit Card,South,Bengaluru,Returned,223
+ORD10216,2025-11-01,CUST123,Smartphone,Electronics,4,25000,19000,10.0,UPI,East,Kolkata,Cancelled,366
+ORD10217,2025-08-11,CUST204,T-Shirt,Fashion,4,900,500,0.0,Credit Card,South,Bengaluru,Delivered,419
+ORD10218,2025-01-07,CUST022,Smartwatch,Electronics,3,5000,3300,15.0,Credit Card,East,Patna,Returned,257
+ORD10219,2025-07-07,CUST087,Headphones,Electronics,2,2500,1600,10.0,Net Banking,South,Hyderabad,Shipped,61
+ORD10220,2025-05-02,CUST221,T-Shirt,Fashion,3,900,500,15.0,Cash on Delivery,North,Jaipur,Returned,222
+ORD10221,2025-03-23,CUST150,Headphones,Electronics,2,2500,1600,5.0,Cash on Delivery,East,Bhubaneswar,Delivered,260
+ORD10222,2025-07-21,CUST093,Mixer Grinder,Home Appliances,3,3500,2300,10.0,UPI,North,Jaipur,Returned,494
+ORD10223,2025-12-16,CUST024,Bookshelf,Furniture,1,7000,4800,5.0,Net Banking,North,Delhi,Shipped,494
+ORD10224,2025-12-30,CUST152,Smartwatch,Electronics,2,5000,3300,15.0,Credit Card,East,Bhubaneswar,Delivered,493
+ORD10225,2025-09-07,CUST066,Headphones,Electronics,1,2500,1600,5.0,Credit Card,South,Hyderabad,Delivered,277
+ORD10226,2025-08-31,CUST125,Desk,Furniture,3,12000,8500,5.0,Net Banking,South,Bengaluru,Delivered,295
+ORD10227,2025-01-21,CUST282,Smartphone,Electronics,3,25000,19000,0.0,Net Banking,South,Chennai,Cancelled,404
+ORD10228,2025-01-14,CUST293,Backpack,Accessories,2,1800,1100,5.0,Cash on Delivery,East,Kolkata,Cancelled,424
+ORD10229,2025-11-12,CUST130,T-Shirt,Fashion,1,900,500,0.0,UPI,West,Ahmedabad,Delivered,133
+ORD10230,2025-01-28,CUST261,T-Shirt,Fashion,2,900,500,10.0,UPI,South,Hyderabad,Delivered,278
+ORD10231,2025-10-28,CUST195,Shoes,Fashion,3,3500,2200,10.0,Credit Card,West,Mumbai,Shipped,59
+ORD10232,2025-12-16,CUST276,Coffee Maker,Home Appliances,1,4500,3000,0.0,Debit Card,East,Bhubaneswar,Delivered,182
+ORD10233,2025-03-05,CUST121,Laptop,Electronics,2,55000,42000,15.0,Debit Card,South,Hyderabad,Shipped,333
+ORD10234,2025-06-14,CUST044,Office Chair,Furniture,1,8500,6000,0.0,Net Banking,East,Bhubaneswar,Returned,169
+ORD10235,2025-09-08,CUST130,Desk,Furniture,1,12000,8500,15.0,UPI,East,Bhubaneswar,Returned,419
+ORD10236,2025-10-09,CUST035,Office Chair,Furniture,1,8500,6000,0.0,Cash on Delivery,West,Mumbai,Shipped,168
+ORD10237,2025-06-10,CUST012,Mixer Grinder,Home Appliances,1,3500,2300,10.0,Credit Card,West,Pune,Delivered,255
+ORD10238,2025-08-04,CUST217,Office Chair,Furniture,3,8500,6000,10.0,Credit Card,North,Lucknow,Shipped,175
+ORD10239,2025-08-11,CUST294,T-Shirt,Fashion,4,900,500,10.0,Net Banking,South,Bengaluru,Returned,227
+ORD10240,2025-08-22,CUST129,Smartwatch,Electronics,4,5000,3300,5.0,Cash on Delivery,North,Lucknow,Cancelled,390
+ORD10241,2025-06-24,CUST119,Office Chair,Furniture,2,8500,6000,0.0,Credit Card,West,Ahmedabad,Delivered,360
+ORD10242,2025-05-25,CUST289,Coffee Maker,Home Appliances,2,4500,3000,0.0,UPI,North,Lucknow,Delivered,125
+ORD10243,2025-12-27,CUST192,Office Chair,Furniture,2,8500,6000,15.0,UPI,West,Pune,Delivered,499
+ORD10244,2025-06-25,CUST077,T-Shirt,Fashion,1,900,500,0.0,UPI,South,Hyderabad,Delivered,294
+ORD10245,2025-04-12,CUST019,Smartwatch,Electronics,2,5000,3300,15.0,Credit Card,North,Lucknow,Delivered,151
+ORD10246,2025-12-05,CUST089,T-Shirt,Fashion,1,900,500,10.0,Cash on Delivery,South,Bengaluru,Returned,178
+ORD10247,2025-07-18,CUST093,Laptop,Electronics,3,55000,42000,20.0,UPI,East,Bhubaneswar,Delivered,452
+ORD10248,2025-10-18,CUST110,Laptop,Electronics,4,55000,42000,5.0,Credit Card,North,Delhi,Delivered,316
+ORD10249,2025-03-26,CUST117,T-Shirt,Fashion,2,900,500,5.0,Cash on Delivery,North,Jaipur,Delivered,461
+ORD10250,2025-05-13,CUST228,T-Shirt,Fashion,2,900,500,20.0,Debit Card,East,Bhubaneswar,Returned,349
+ORD10251,2025-12-30,CUST107,Desk,Furniture,3,12000,8500,10.0,Cash on Delivery,North,Lucknow,Delivered,70
+ORD10252,2025-07-22,CUST141,T-Shirt,Fashion,3,900,500,15.0,Debit Card,West,Mumbai,Delivered,326
+ORD10253,2025-02-21,CUST239,Smartwatch,Electronics,2,5000,3300,10.0,Net Banking,West,Pune,Delivered,206
+ORD10254,2025-06-07,CUST077,Shoes,Fashion,2,3500,2200,5.0,Net Banking,East,Kolkata,Delivered,482
+ORD10255,2025-09-20,CUST039,T-Shirt,Fashion,3,900,500,15.0,Cash on Delivery,East,Patna,Returned,123
+ORD10256,2025-08-29,CUST036,Backpack,Accessories,2,1800,1100,20.0,Net Banking,South,Chennai,Delivered,347
+ORD10257,2025-11-06,CUST173,Desk,Furniture,1,12000,8500,15.0,Credit Card,South,Bengaluru,Returned,425
+ORD10258,2025-04-28,CUST026,Mixer Grinder,Home Appliances,1,3500,2300,15.0,UPI,South,Bengaluru,Returned,442
+ORD10259,2025-05-01,CUST152,Coffee Maker,Home Appliances,1,4500,3000,5.0,UPI,South,Chennai,Delivered,121
+ORD10260,2025-03-09,CUST060,Mixer Grinder,Home Appliances,2,3500,2300,10.0,Credit Card,West,Pune,Delivered,149
+ORD10261,2025-06-13,CUST242,Smartphone,Electronics,2,25000,19000,0.0,Cash on Delivery,North,Jaipur,Returned,488
+ORD10262,2025-04-18,CUST149,Laptop,Electronics,2,55000,42000,0.0,UPI,North,Jaipur,Cancelled,168
+ORD10263,2025-06-09,CUST077,Office Chair,Furniture,3,8500,6000,5.0,Cash on Delivery,North,Jaipur,Delivered,127
+ORD10264,2025-11-16,CUST042,T-Shirt,Fashion,3,900,500,20.0,Cash on Delivery,North,Lucknow,Returned,195
+ORD10265,2025-10-07,CUST218,T-Shirt,Fashion,4,900,500,10.0,Credit Card,North,Delhi,Returned,117
+ORD10266,2025-08-17,CUST073,Smartwatch,Electronics,1,5000,3300,15.0,UPI,South,Chennai,Delivered,436
+ORD10267,2025-07-15,CUST130,Desk,Furniture,1,12000,8500,0.0,Net Banking,South,Hyderabad,Shipped,365
+ORD10268,2025-06-09,CUST300,Bookshelf,Furniture,1,7000,4800,5.0,Cash on Delivery,East,Patna,Delivered,116
+ORD10269,2025-11-22,CUST102,Headphones,Electronics,2,2500,1600,15.0,UPI,West,Ahmedabad,Delivered,307
+ORD10270,2025-10-13,CUST036,Smartphone,Electronics,4,25000,19000,15.0,Cash on Delivery,South,Bengaluru,Shipped,491
+ORD10271,2025-07-27,CUST012,T-Shirt,Fashion,2,900,500,0.0,UPI,South,Bengaluru,Delivered,104
+ORD10272,2025-01-03,CUST115,Shoes,Fashion,4,3500,2200,20.0,Cash on Delivery,West,Mumbai,Delivered,328
+ORD10273,2025-12-30,CUST149,Shoes,Fashion,1,3500,2200,0.0,Net Banking,South,Chennai,Cancelled,335
+ORD10274,2025-08-19,CUST038,Desk,Furniture,4,12000,8500,0.0,Net Banking,North,Lucknow,Delivered,321
+ORD10275,2025-05-31,CUST258,Smartwatch,Electronics,2,5000,3300,20.0,Debit Card,North,Delhi,Delivered,115
+ORD10276,2025-11-27,CUST154,T-Shirt,Fashion,3,900,500,15.0,Net Banking,North,Delhi,Delivered,239
+ORD10277,2025-05-23,CUST244,Backpack,Accessories,2,1800,1100,15.0,Credit Card,West,Ahmedabad,Delivered,150
+ORD10278,2025-06-15,CUST158,Laptop,Electronics,2,55000,42000,20.0,Credit Card,East,Kolkata,Cancelled,340
+ORD10279,2025-12-02,CUST073,Desk,Furniture,3,12000,8500,15.0,Cash on Delivery,North,Jaipur,Delivered,63
+ORD10280,2025-05-10,CUST276,Smartphone,Electronics,3,25000,19000,5.0,Credit Card,East,Patna,Delivered,255
+ORD10281,2025-10-08,CUST095,T-Shirt,Fashion,1,900,500,0.0,UPI,North,Lucknow,Cancelled,213
+ORD10282,2025-01-25,CUST025,Desk,Furniture,1,12000,8500,20.0,Net Banking,West,Mumbai,Shipped,441
+ORD10283,2025-10-15,CUST031,Bookshelf,Furniture,4,7000,4800,15.0,Net Banking,East,Bhubaneswar,Delivered,190
+ORD10284,2025-06-09,CUST130,Bookshelf,Furniture,1,7000,4800,10.0,Net Banking,West,Ahmedabad,Returned,303
+ORD10285,2025-01-05,CUST130,Headphones,Electronics,3,2500,1600,5.0,Debit Card,North,Jaipur,Delivered,315
+ORD10286,2025-03-24,CUST156,Shoes,Fashion,1,3500,2200,10.0,Debit Card,South,Hyderabad,Returned,198
+ORD10287,2025-09-17,CUST221,Bookshelf,Furniture,4,7000,4800,0.0,Net Banking,North,Delhi,Delivered,150
+ORD10288,2025-08-19,CUST191,Bookshelf,Furniture,2,7000,4800,20.0,Cash on Delivery,West,Ahmedabad,Delivered,165
+ORD10289,2025-04-02,CUST133,Backpack,Accessories,2,1800,1100,20.0,Credit Card,East,Patna,Cancelled,135
+ORD10290,2025-09-03,CUST065,Mixer Grinder,Home Appliances,2,3500,2300,20.0,Cash on Delivery,West,Pune,Shipped,187
+ORD10291,2025-08-01,CUST160,Coffee Maker,Home Appliances,1,4500,3000,5.0,Net Banking,North,Lucknow,Delivered,222
+ORD10292,2025-07-07,CUST256,Headphones,Electronics,3,2500,1600,20.0,Cash on Delivery,North,Delhi,Delivered,357
+ORD10293,2025-02-21,CUST232,Smartwatch,Electronics,4,5000,3300,15.0,Debit Card,North,Lucknow,Delivered,131
+ORD10294,2025-02-11,CUST113,Smartwatch,Electronics,1,5000,3300,5.0,UPI,West,Ahmedabad,Delivered,446
+ORD10295,2025-05-09,CUST029,Shoes,Fashion,2,3500,2200,15.0,UPI,South,Hyderabad,Delivered,97
+ORD10296,2025-08-20,CUST247,Smartphone,Electronics,1,25000,19000,15.0,Credit Card,East,Kolkata,Delivered,252
+ORD10297,2025-03-20,CUST173,Desk,Furniture,1,12000,8500,15.0,Debit Card,South,Chennai,Shipped,392
+ORD10298,2025-03-28,CUST087,Bookshelf,Furniture,1,7000,4800,20.0,Debit Card,North,Delhi,Delivered,249
+ORD10299,2025-06-01,CUST277,Headphones,Electronics,1,2500,1600,20.0,Credit Card,South,Chennai,Returned,197
+ORD10300,2025-07-30,CUST051,Smartwatch,Electronics,3,5000,3300,10.0,Debit Card,East,Patna,Delivered,77
+ORD10301,2025-12-16,CUST111,Office Chair,Furniture,2,8500,6000,5.0,Net Banking,West,Pune,Delivered,87
+ORD10302,2025-11-25,CUST049,Shoes,Fashion,2,3500,2200,5.0,Net Banking,South,Chennai,Cancelled,500
+ORD10303,2025-06-18,CUST190,Smartwatch,Electronics,1,5000,3300,5.0,Credit Card,South,Hyderabad,Delivered,168
+ORD10304,2025-05-20,CUST269,Office Chair,Furniture,3,8500,6000,5.0,Cash on Delivery,West,Mumbai,Returned,423
+ORD10305,2025-01-11,CUST183,Bookshelf,Furniture,2,7000,4800,0.0,UPI,North,Lucknow,Delivered,473
+ORD10306,2025-11-30,CUST278,Shoes,Fashion,4,3500,2200,5.0,Net Banking,East,Patna,Cancelled,163
+ORD10307,2025-06-21,CUST113,Smartwatch,Electronics,4,5000,3300,10.0,Cash on Delivery,West,Pune,Delivered,223
+ORD10308,2025-02-08,CUST018,Coffee Maker,Home Appliances,1,4500,3000,15.0,Cash on Delivery,South,Bengaluru,Shipped,282
+ORD10309,2025-10-29,CUST203,Office Chair,Furniture,4,8500,6000,15.0,Debit Card,South,Chennai,Delivered,273
+ORD10310,2025-10-12,CUST029,Desk,Furniture,1,12000,8500,5.0,Cash on Delivery,East,Bhubaneswar,Returned,307
+ORD10311,2025-02-19,CUST088,Smartwatch,Electronics,3,5000,3300,10.0,Net Banking,East,Patna,Shipped,456
+ORD10312,2025-07-08,CUST118,Desk,Furniture,1,12000,8500,10.0,Debit Card,East,Patna,Returned,240
+ORD10313,2025-10-08,CUST136,Backpack,Accessories,4,1800,1100,20.0,Credit Card,East,Bhubaneswar,Delivered,160
+ORD10314,2025-12-30,CUST104,Shoes,Fashion,1,3500,2200,10.0,Debit Card,North,Delhi,Delivered,498
+ORD10315,2025-01-10,CUST066,Smartphone,Electronics,1,25000,19000,10.0,UPI,East,Patna,Shipped,460
+ORD10316,2025-03-27,CUST054,T-Shirt,Fashion,2,900,500,5.0,Net Banking,West,Mumbai,Delivered,363
+ORD10317,2025-01-20,CUST070,T-Shirt,Fashion,3,900,500,10.0,Debit Card,North,Lucknow,Shipped,272
+ORD10318,2025-04-21,CUST024,Coffee Maker,Home Appliances,1,4500,3000,15.0,Debit Card,West,Mumbai,Delivered,69
+ORD10319,2025-11-06,CUST038,Office Chair,Furniture,4,8500,6000,20.0,Net Banking,West,Ahmedabad,Delivered,251
+ORD10320,2025-09-30,CUST014,T-Shirt,Fashion,3,900,500,15.0,Debit Card,West,Mumbai,Shipped,270
+ORD10321,2025-09-11,CUST082,Coffee Maker,Home Appliances,4,4500,3000,5.0,Debit Card,South,Bengaluru,Returned,207
+ORD10322,2025-11-01,CUST152,Bookshelf,Furniture,3,7000,4800,10.0,Cash on Delivery,East,Bhubaneswar,Delivered,455
+ORD10323,2025-04-27,CUST019,Coffee Maker,Home Appliances,3,4500,3000,15.0,Cash on Delivery,West,Ahmedabad,Delivered,241
+ORD10324,2025-07-02,CUST116,Backpack,Accessories,1,1800,1100,5.0,UPI,North,Delhi,Delivered,368
+ORD10325,2025-10-30,CUST161,Bookshelf,Furniture,3,7000,4800,0.0,UPI,East,Patna,Cancelled,167
+ORD10326,2025-08-28,CUST198,Smartwatch,Electronics,3,5000,3300,10.0,Net Banking,West,Mumbai,Delivered,448
+ORD10327,2025-03-31,CUST138,Backpack,Accessories,4,1800,1100,20.0,Credit Card,South,Hyderabad,Delivered,110
+ORD10328,2025-12-16,CUST051,Mixer Grinder,Home Appliances,2,3500,2300,20.0,Cash on Delivery,North,Delhi,Delivered,247
+ORD10329,2025-10-29,CUST049,Coffee Maker,Home Appliances,2,4500,3000,10.0,Cash on Delivery,North,Jaipur,Delivered,118
+ORD10330,2025-03-11,CUST231,Office Chair,Furniture,2,8500,6000,15.0,Credit Card,West,Mumbai,Delivered,175
+ORD10331,2025-11-09,CUST174,Laptop,Electronics,4,55000,42000,0.0,Net Banking,South,Chennai,Delivered,231
+ORD10332,2025-01-31,CUST213,Bookshelf,Furniture,4,7000,4800,0.0,Net Banking,South,Hyderabad,Delivered,85
+ORD10333,2025-06-12,CUST120,Desk,Furniture,3,12000,8500,15.0,Credit Card,East,Bhubaneswar,Cancelled,319
+ORD10334,2025-07-24,CUST228,Coffee Maker,Home Appliances,2,4500,3000,15.0,Debit Card,South,Hyderabad,Delivered,378
+ORD10335,2025-12-29,CUST178,Smartphone,Electronics,1,25000,19000,20.0,UPI,East,Kolkata,Delivered,245
+ORD10336,2025-05-07,CUST248,Backpack,Accessories,3,1800,1100,5.0,Debit Card,West,Ahmedabad,Delivered,209
+ORD10337,2025-06-03,CUST021,Shoes,Fashion,4,3500,2200,0.0,Credit Card,South,Bengaluru,Shipped,214
+ORD10338,2025-08-06,CUST161,Headphones,Electronics,1,2500,1600,0.0,Credit Card,South,Bengaluru,Shipped,452
+ORD10339,2025-11-23,CUST152,Smartwatch,Electronics,2,5000,3300,0.0,Cash on Delivery,East,Kolkata,Shipped,130
+ORD10340,2025-02-12,CUST098,Smartphone,Electronics,1,25000,19000,0.0,Credit Card,East,Bhubaneswar,Delivered,66
+ORD10341,2025-01-05,CUST098,Coffee Maker,Home Appliances,2,4500,3000,0.0,Debit Card,West,Pune,Shipped,115
+ORD10342,2025-03-17,CUST138,Backpack,Accessories,4,1800,1100,15.0,Debit Card,West,Ahmedabad,Delivered,108
+ORD10343,2025-10-04,CUST068,Laptop,Electronics,4,55000,42000,5.0,Net Banking,South,Bengaluru,Cancelled,432
+ORD10344,2025-08-01,CUST270,Shoes,Fashion,3,3500,2200,15.0,Debit Card,South,Chennai,Shipped,141
+ORD10345,2025-02-27,CUST066,T-Shirt,Fashion,4,900,500,5.0,UPI,South,Chennai,Cancelled,418
+ORD10346,2025-02-13,CUST262,Headphones,Electronics,1,2500,1600,5.0,Net Banking,South,Chennai,Returned,276
+ORD10347,2025-06-27,CUST267,T-Shirt,Fashion,3,900,500,10.0,Net Banking,East,Patna,Delivered,246
+ORD10348,2025-10-24,CUST072,Shoes,Fashion,4,3500,2200,20.0,UPI,South,Chennai,Returned,134
+ORD10349,2025-02-11,CUST263,Shoes,Fashion,4,3500,2200,15.0,Debit Card,North,Lucknow,Shipped,317
+ORD10350,2025-04-24,CUST129,Headphones,Electronics,3,2500,1600,0.0,Cash on Delivery,East,Patna,Delivered,269
+ORD10351,2025-09-17,CUST137,Mixer Grinder,Home Appliances,2,3500,2300,10.0,Net Banking,West,Pune,Delivered,81
+ORD10352,2025-03-04,CUST158,Backpack,Accessories,1,1800,1100,20.0,Cash on Delivery,North,Delhi,Delivered,70
+ORD10353,2025-04-12,CUST128,Smartwatch,Electronics,2,5000,3300,10.0,Debit Card,East,Bhubaneswar,Shipped,296
+ORD10354,2025-12-19,CUST154,T-Shirt,Fashion,4,900,500,0.0,Cash on Delivery,North,Jaipur,Delivered,453
+ORD10355,2025-05-14,CUST213,Bookshelf,Furniture,3,7000,4800,15.0,Credit Card,South,Hyderabad,Cancelled,477
+ORD10356,2025-10-13,CUST248,Headphones,Electronics,2,2500,1600,20.0,Credit Card,East,Bhubaneswar,Cancelled,205
+ORD10357,2025-06-12,CUST075,Laptop,Electronics,4,55000,42000,5.0,UPI,West,Pune,Returned,90
+ORD10358,2025-11-21,CUST271,Desk,Furniture,4,12000,8500,10.0,Debit Card,North,Delhi,Delivered,399
+ORD10359,2025-09-29,CUST248,Laptop,Electronics,2,55000,42000,5.0,Net Banking,West,Mumbai,Returned,473
+ORD10360,2025-07-20,CUST247,Backpack,Accessories,4,1800,1100,15.0,Debit Card,West,Ahmedabad,Delivered,50
+ORD10361,2025-10-30,CUST117,Coffee Maker,Home Appliances,2,4500,3000,20.0,Cash on Delivery,South,Hyderabad,Cancelled,276
+ORD10362,2025-02-08,CUST207,Smartwatch,Electronics,1,5000,3300,10.0,Credit Card,West,Mumbai,Delivered,301
+ORD10363,2025-09-08,CUST046,Laptop,Electronics,3,55000,42000,10.0,Net Banking,West,Ahmedabad,Shipped,140
+ORD10364,2025-05-27,CUST281,Shoes,Fashion,2,3500,2200,10.0,Credit Card,North,Jaipur,Cancelled,133
+ORD10365,2025-03-24,CUST275,Backpack,Accessories,2,1800,1100,10.0,UPI,West,Ahmedabad,Delivered,436
+ORD10366,2025-07-25,CUST124,Smartwatch,Electronics,3,5000,3300,0.0,UPI,South,Bengaluru,Delivered,300
+ORD10367,2025-04-30,CUST164,Headphones,Electronics,2,2500,1600,20.0,UPI,West,Mumbai,Cancelled,366
+ORD10368,2025-11-04,CUST227,T-Shirt,Fashion,1,900,500,10.0,UPI,North,Delhi,Delivered,358
+ORD10369,2025-03-09,CUST125,T-Shirt,Fashion,4,900,500,5.0,UPI,West,Mumbai,Returned,410
+ORD10370,2025-06-07,CUST064,Backpack,Accessories,4,1800,1100,10.0,Credit Card,North,Delhi,Shipped,316
+ORD10371,2025-10-31,CUST172,Office Chair,Furniture,4,8500,6000,20.0,UPI,West,Pune,Shipped,500
+ORD10372,2025-11-20,CUST065,T-Shirt,Fashion,3,900,500,0.0,Cash on Delivery,South,Hyderabad,Returned,265
+ORD10373,2025-03-17,CUST026,Shoes,Fashion,2,3500,2200,0.0,Net Banking,East,Bhubaneswar,Shipped,196
+ORD10374,2025-01-21,CUST179,Desk,Furniture,3,12000,8500,15.0,Net Banking,South,Chennai,Returned,206
+ORD10375,2025-01-28,CUST067,Backpack,Accessories,4,1800,1100,15.0,Net Banking,East,Bhubaneswar,Delivered,478
+ORD10376,2025-12-13,CUST072,Shoes,Fashion,3,3500,2200,0.0,UPI,North,Lucknow,Delivered,306
+ORD10377,2025-09-19,CUST093,Laptop,Electronics,2,55000,42000,10.0,Cash on Delivery,East,Bhubaneswar,Delivered,185
+ORD10378,2025-05-22,CUST177,Headphones,Electronics,3,2500,1600,20.0,Cash on Delivery,South,Chennai,Shipped,389
+ORD10379,2025-10-29,CUST090,Desk,Furniture,1,12000,8500,10.0,Cash on Delivery,North,Delhi,Shipped,453
+ORD10380,2025-12-29,CUST037,Laptop,Electronics,2,55000,42000,0.0,UPI,East,Kolkata,Delivered,314
+ORD10381,2025-10-04,CUST183,Laptop,Electronics,3,55000,42000,10.0,UPI,South,Chennai,Returned,472
+ORD10382,2025-11-29,CUST168,Mixer Grinder,Home Appliances,3,3500,2300,20.0,Net Banking,North,Jaipur,Delivered,50
+ORD10383,2025-04-19,CUST090,Bookshelf,Furniture,4,7000,4800,20.0,Net Banking,South,Chennai,Delivered,289
+ORD10384,2025-06-02,CUST215,Office Chair,Furniture,3,8500,6000,20.0,UPI,South,Chennai,Returned,480
+ORD10385,2025-05-26,CUST127,Smartwatch,Electronics,2,5000,3300,15.0,Net Banking,North,Lucknow,Delivered,210
+ORD10386,2025-08-27,CUST225,Office Chair,Furniture,4,8500,6000,15.0,Net Banking,North,Jaipur,Delivered,162
+ORD10387,2025-09-15,CUST202,Headphones,Electronics,3,2500,1600,20.0,Credit Card,South,Hyderabad,Delivered,154
+ORD10388,2025-07-29,CUST039,Mixer Grinder,Home Appliances,3,3500,2300,0.0,Net Banking,East,Kolkata,Delivered,426
+ORD10389,2025-06-04,CUST166,Smartwatch,Electronics,1,5000,3300,5.0,Debit Card,West,Ahmedabad,Cancelled,142
+ORD10390,2025-03-22,CUST235,Shoes,Fashion,1,3500,2200,15.0,UPI,North,Lucknow,Returned,468
+ORD10391,2025-08-01,CUST223,Coffee Maker,Home Appliances,2,4500,3000,0.0,UPI,West,Pune,Returned,176
+ORD10392,2025-10-21,CUST107,Shoes,Fashion,4,3500,2200,20.0,Credit Card,South,Hyderabad,Delivered,487
+ORD10393,2025-03-14,CUST188,Headphones,Electronics,1,2500,1600,5.0,Net Banking,South,Bengaluru,Delivered,79
+ORD10394,2025-06-05,CUST023,Headphones,Electronics,4,2500,1600,0.0,Debit Card,North,Jaipur,Delivered,112
+ORD10395,2025-04-28,CUST167,Mixer Grinder,Home Appliances,4,3500,2300,15.0,Credit Card,South,Hyderabad,Delivered,466
+ORD10396,2025-07-15,CUST047,Office Chair,Furniture,1,8500,6000,0.0,Net Banking,South,Bengaluru,Delivered,242
+ORD10397,2025-05-06,CUST294,Coffee Maker,Home Appliances,3,4500,3000,0.0,Cash on Delivery,East,Bhubaneswar,Delivered,418
+ORD10398,2025-07-23,CUST113,Smartwatch,Electronics,2,5000,3300,0.0,Cash on Delivery,South,Chennai,Delivered,80
+ORD10399,2025-12-10,CUST045,Office Chair,Furniture,3,8500,6000,10.0,Net Banking,South,Chennai,Delivered,124
+ORD10400,2025-12-29,CUST051,Mixer Grinder,Home Appliances,4,3500,2300,10.0,Credit Card,West,Ahmedabad,Cancelled,283
+ORD10401,2025-01-30,CUST125,Mixer Grinder,Home Appliances,2,3500,2300,20.0,Cash on Delivery,West,Pune,Delivered,171
+ORD10402,2025-02-04,CUST201,Bookshelf,Furniture,3,7000,4800,15.0,UPI,West,Pune,Shipped,323
+ORD10403,2025-04-19,CUST165,Mixer Grinder,Home Appliances,4,3500,2300,15.0,UPI,West,Mumbai,Delivered,118
+ORD10404,2025-11-05,CUST042,Smartphone,Electronics,3,25000,19000,10.0,Credit Card,West,Ahmedabad,Shipped,436
+ORD10405,2025-12-07,CUST300,Headphones,Electronics,2,2500,1600,15.0,Debit Card,East,Kolkata,Returned,70
+ORD10406,2025-04-02,CUST111,Smartwatch,Electronics,3,5000,3300,20.0,Credit Card,North,Jaipur,Delivered,446
+ORD10407,2025-09-30,CUST104,Smartwatch,Electronics,3,5000,3300,15.0,UPI,North,Jaipur,Delivered,387
+ORD10408,2025-12-07,CUST145,Headphones,Electronics,4,2500,1600,15.0,Cash on Delivery,West,Pune,Delivered,54
+ORD10409,2025-03-05,CUST267,Desk,Furniture,3,12000,8500,20.0,Cash on Delivery,North,Jaipur,Returned,403
+ORD10410,2025-05-29,CUST184,Bookshelf,Furniture,2,7000,4800,10.0,Net Banking,West,Ahmedabad,Delivered,54
+ORD10411,2025-03-11,CUST154,Coffee Maker,Home Appliances,1,4500,3000,10.0,Net Banking,East,Bhubaneswar,Delivered,196
+ORD10412,2025-07-02,CUST075,Smartwatch,Electronics,2,5000,3300,15.0,UPI,West,Ahmedabad,Cancelled,151
+ORD10413,2025-07-22,CUST179,Shoes,Fashion,4,3500,2200,0.0,Cash on Delivery,South,Bengaluru,Cancelled,291
+ORD10414,2025-04-02,CUST163,Mixer Grinder,Home Appliances,3,3500,2300,15.0,UPI,North,Lucknow,Delivered,440
+ORD10415,2025-08-13,CUST294,Laptop,Electronics,4,55000,42000,10.0,Debit Card,North,Delhi,Delivered,112
+ORD10416,2025-07-27,CUST171,Office Chair,Furniture,2,8500,6000,20.0,Debit Card,South,Bengaluru,Cancelled,263
+ORD10417,2025-11-16,CUST194,Coffee Maker,Home Appliances,2,4500,3000,20.0,UPI,East,Kolkata,Delivered,253
+ORD10418,2025-08-10,CUST264,Shoes,Fashion,3,3500,2200,10.0,Credit Card,South,Hyderabad,Delivered,68
+ORD10419,2025-01-30,CUST292,Shoes,Fashion,3,3500,2200,10.0,UPI,South,Bengaluru,Shipped,114
+ORD10420,2025-05-21,CUST128,Laptop,Electronics,4,55000,42000,20.0,UPI,West,Pune,Returned,237
+ORD10421,2025-02-04,CUST260,Laptop,Electronics,2,55000,42000,0.0,Debit Card,West,Mumbai,Delivered,339
+ORD10422,2025-07-07,CUST045,Shoes,Fashion,1,3500,2200,20.0,Cash on Delivery,North,Jaipur,Delivered,339
+ORD10423,2025-01-16,CUST162,Mixer Grinder,Home Appliances,2,3500,2300,0.0,Credit Card,West,Ahmedabad,Delivered,424
+ORD10424,2025-11-18,CUST184,Desk,Furniture,2,12000,8500,5.0,Net Banking,East,Bhubaneswar,Delivered,62
+ORD10425,2025-08-03,CUST221,Backpack,Accessories,2,1800,1100,10.0,Cash on Delivery,North,Jaipur,Returned,167
+ORD10426,2025-08-21,CUST021,Laptop,Electronics,2,55000,42000,20.0,Debit Card,North,Delhi,Shipped,318
+ORD10427,2025-10-08,CUST023,Headphones,Electronics,2,2500,1600,0.0,Credit Card,South,Hyderabad,Delivered,232
+ORD10428,2025-02-23,CUST014,Smartwatch,Electronics,4,5000,3300,15.0,Credit Card,South,Chennai,Delivered,209
+ORD10429,2025-12-01,CUST059,Smartwatch,Electronics,2,5000,3300,15.0,Credit Card,West,Pune,Delivered,254
+ORD10430,2025-12-04,CUST075,Backpack,Accessories,4,1800,1100,5.0,UPI,North,Lucknow,Delivered,176
+ORD10431,2025-08-29,CUST274,Laptop,Electronics,2,55000,42000,20.0,UPI,South,Hyderabad,Returned,203
+ORD10432,2025-09-21,CUST157,Shoes,Fashion,1,3500,2200,20.0,Net Banking,North,Lucknow,Delivered,477
+ORD10433,2025-04-17,CUST162,T-Shirt,Fashion,3,900,500,0.0,Net Banking,North,Delhi,Delivered,460
+ORD10434,2025-11-03,CUST198,Smartwatch,Electronics,1,5000,3300,10.0,Net Banking,North,Lucknow,Delivered,226
+ORD10435,2025-07-05,CUST217,Office Chair,Furniture,3,8500,6000,5.0,Credit Card,North,Delhi,Returned,462
+ORD10436,2025-08-23,CUST024,Backpack,Accessories,1,1800,1100,20.0,Net Banking,West,Pune,Delivered,466
+ORD10437,2025-10-08,CUST211,Laptop,Electronics,2,55000,42000,0.0,Net Banking,West,Mumbai,Shipped,70
+ORD10438,2025-04-11,CUST146,Coffee Maker,Home Appliances,2,4500,3000,15.0,Debit Card,North,Delhi,Delivered,90
+ORD10439,2025-01-13,CUST100,T-Shirt,Fashion,2,900,500,20.0,Credit Card,East,Bhubaneswar,Delivered,446
+ORD10440,2025-11-06,CUST109,T-Shirt,Fashion,4,900,500,0.0,Cash on Delivery,West,Ahmedabad,Shipped,149
+ORD10441,2025-08-04,CUST003,Smartphone,Electronics,4,25000,19000,15.0,Net Banking,South,Hyderabad,Cancelled,323
+ORD10442,2025-05-29,CUST021,Bookshelf,Furniture,4,7000,4800,0.0,Net Banking,East,Bhubaneswar,Delivered,405
+ORD10443,2025-02-18,CUST044,Headphones,Electronics,2,2500,1600,5.0,Cash on Delivery,South,Hyderabad,Delivered,102
+ORD10444,2025-10-07,CUST138,Office Chair,Furniture,2,8500,6000,0.0,Debit Card,West,Ahmedabad,Delivered,405
+ORD10445,2025-01-17,CUST029,Headphones,Electronics,4,2500,1600,15.0,Debit Card,West,Ahmedabad,Delivered,73
+ORD10446,2025-07-07,CUST119,Smartwatch,Electronics,2,5000,3300,0.0,Net Banking,East,Kolkata,Returned,389
+ORD10447,2025-04-02,CUST181,Laptop,Electronics,2,55000,42000,15.0,Credit Card,South,Chennai,Delivered,332
+ORD10448,2025-05-14,CUST033,T-Shirt,Fashion,3,900,500,20.0,Credit Card,North,Lucknow,Returned,202
+ORD10449,2025-05-06,CUST135,Smartwatch,Electronics,4,5000,3300,10.0,Net Banking,South,Hyderabad,Returned,422
+ORD10450,2025-06-09,CUST045,Headphones,Electronics,3,2500,1600,0.0,Debit Card,South,Hyderabad,Delivered,266
+ORD10451,2025-06-06,CUST205,Shoes,Fashion,2,3500,2200,5.0,Net Banking,North,Jaipur,Returned,461
+ORD10452,2025-01-04,CUST133,Bookshelf,Furniture,2,7000,4800,0.0,Net Banking,East,Kolkata,Delivered,168
+ORD10453,2025-10-05,CUST090,Mixer Grinder,Home Appliances,1,3500,2300,0.0,Net Banking,East,Bhubaneswar,Returned,108
+ORD10454,2025-01-26,CUST267,Coffee Maker,Home Appliances,1,4500,3000,5.0,Cash on Delivery,South,Hyderabad,Shipped,350
+ORD10455,2025-03-09,CUST049,Shoes,Fashion,3,3500,2200,15.0,Net Banking,South,Chennai,Cancelled,370
+ORD10456,2025-07-07,CUST242,Shoes,Fashion,1,3500,2200,0.0,Credit Card,West,Ahmedabad,Delivered,223
+ORD10457,2025-03-25,CUST054,Smartphone,Electronics,4,25000,19000,0.0,UPI,West,Pune,Delivered,297
+ORD10458,2025-08-14,CUST277,Desk,Furniture,3,12000,8500,20.0,Cash on Delivery,East,Patna,Cancelled,171
+ORD10459,2025-07-29,CUST223,Desk,Furniture,2,12000,8500,5.0,Debit Card,West,Ahmedabad,Cancelled,351
+ORD10460,2025-08-23,CUST240,Desk,Furniture,4,12000,8500,0.0,Debit Card,South,Chennai,Shipped,258
+ORD10461,2025-12-17,CUST169,Smartphone,Electronics,4,25000,19000,15.0,Net Banking,East,Patna,Delivered,119
+ORD10462,2025-11-16,CUST139,Bookshelf,Furniture,3,7000,4800,5.0,Cash on Delivery,South,Chennai,Delivered,495
+ORD10463,2025-11-07,CUST260,Smartphone,Electronics,2,25000,19000,5.0,Net Banking,North,Jaipur,Delivered,203
+ORD10464,2025-09-30,CUST247,Mixer Grinder,Home Appliances,3,3500,2300,10.0,Cash on Delivery,North,Lucknow,Delivered,294
+ORD10465,2025-04-04,CUST081,Shoes,Fashion,1,3500,2200,10.0,Debit Card,West,Mumbai,Delivered,88
+ORD10466,2025-12-08,CUST074,Shoes,Fashion,1,3500,2200,15.0,Net Banking,North,Lucknow,Shipped,186
+ORD10467,2025-09-12,CUST170,Bookshelf,Furniture,3,7000,4800,20.0,Net Banking,East,Bhubaneswar,Delivered,265
+ORD10468,2025-04-01,CUST141,Backpack,Accessories,2,1800,1100,20.0,Cash on Delivery,South,Chennai,Delivered,204
+ORD10469,2025-09-05,CUST129,Smartwatch,Electronics,3,5000,3300,10.0,UPI,South,Hyderabad,Shipped,83
+ORD10470,2025-11-19,CUST094,Backpack,Accessories,4,1800,1100,15.0,Debit Card,North,Delhi,Delivered,166
+ORD10471,2025-04-01,CUST173,Laptop,Electronics,2,55000,42000,0.0,Net Banking,South,Bengaluru,Shipped,323
+ORD10472,2025-04-01,CUST114,Smartwatch,Electronics,2,5000,3300,15.0,UPI,West,Pune,Delivered,498
+ORD10473,2025-04-26,CUST203,Coffee Maker,Home Appliances,3,4500,3000,5.0,UPI,West,Mumbai,Delivered,364
+ORD10474,2025-07-12,CUST221,Office Chair,Furniture,1,8500,6000,5.0,Net Banking,East,Kolkata,Shipped,286
+ORD10475,2025-05-29,CUST109,Mixer Grinder,Home Appliances,3,3500,2300,15.0,Net Banking,South,Chennai,Returned,331
+ORD10476,2025-06-03,CUST132,Backpack,Accessories,4,1800,1100,20.0,Credit Card,South,Bengaluru,Delivered,454
+ORD10477,2025-04-19,CUST147,Smartphone,Electronics,1,25000,19000,0.0,Net Banking,West,Mumbai,Cancelled,417
+ORD10478,2025-11-20,CUST195,T-Shirt,Fashion,2,900,500,10.0,Debit Card,East,Patna,Returned,470
+ORD10479,2025-01-24,CUST290,Smartwatch,Electronics,4,5000,3300,5.0,UPI,North,Lucknow,Delivered,53
+ORD10480,2025-09-05,CUST254,Backpack,Accessories,4,1800,1100,20.0,Cash on Delivery,West,Pune,Cancelled,118
+ORD10481,2025-09-06,CUST138,T-Shirt,Fashion,4,900,500,20.0,Cash on Delivery,South,Hyderabad,Shipped,362
+ORD10482,2025-06-28,CUST038,Smartwatch,Electronics,2,5000,3300,15.0,Debit Card,North,Jaipur,Returned,381
+ORD10483,2025-12-09,CUST190,Smartwatch,Electronics,2,5000,3300,5.0,Cash on Delivery,South,Hyderabad,Delivered,79
+ORD10484,2025-07-25,CUST228,Mixer Grinder,Home Appliances,1,3500,2300,10.0,Cash on Delivery,North,Jaipur,Cancelled,96
+ORD10485,2025-08-29,CUST202,Office Chair,Furniture,4,8500,6000,10.0,Debit Card,South,Chennai,Delivered,336
+ORD10486,2025-05-19,CUST273,T-Shirt,Fashion,4,900,500,5.0,Net Banking,North,Delhi,Delivered,263
+ORD10487,2025-12-23,CUST191,T-Shirt,Fashion,2,900,500,0.0,UPI,East,Patna,Delivered,370
+ORD10488,2025-03-29,CUST001,Smartwatch,Electronics,2,5000,3300,10.0,Credit Card,North,Delhi,Returned,247
+ORD10489,2025-09-08,CUST141,T-Shirt,Fashion,1,900,500,20.0,Net Banking,North,Delhi,Delivered,122
+ORD10490,2025-12-03,CUST175,Office Chair,Furniture,3,8500,6000,0.0,Cash on Delivery,North,Jaipur,Returned,125
+ORD10491,2025-09-28,CUST043,Laptop,Electronics,4,55000,42000,15.0,Net Banking,North,Delhi,Delivered,451
+ORD10492,2025-10-16,CUST247,Shoes,Fashion,2,3500,2200,5.0,Net Banking,East,Kolkata,Delivered,238
+ORD10493,2025-06-17,CUST283,Headphones,Electronics,3,2500,1600,20.0,Cash on Delivery,West,Ahmedabad,Cancelled,242
+ORD10494,2025-07-23,CUST089,Headphones,Electronics,4,2500,1600,10.0,Net Banking,North,Jaipur,Returned,92
+ORD10495,2025-05-31,CUST007,Smartwatch,Electronics,2,5000,3300,10.0,Debit Card,East,Bhubaneswar,Delivered,362
+ORD10496,2025-06-28,CUST124,Backpack,Accessories,2,1800,1100,15.0,UPI,North,Jaipur,Delivered,377
+ORD10497,2025-11-27,CUST097,Bookshelf,Furniture,1,7000,4800,10.0,Cash on Delivery,West,Pune,Delivered,189
+ORD10498,2025-04-28,CUST050,Bookshelf,Furniture,4,7000,4800,10.0,UPI,West,Pune,Delivered,82
+ORD10499,2025-02-16,CUST141,Desk,Furniture,3,12000,8500,15.0,Net Banking,West,Pune,Cancelled,338
+ORD10500,2025-01-14,CUST248,Backpack,Accessories,3,1800,1100,10.0,Net Banking,South,Bengaluru,Shipped,177
+ORD10501,2025-11-15,CUST218,Shoes,Fashion,2,3500,2200,0.0,Cash on Delivery,North,Lucknow,Delivered,106
+ORD10502,2025-01-06,CUST169,Laptop,Electronics,2,55000,42000,20.0,Cash on Delivery,North,Lucknow,Delivered,461
+ORD10503,2025-08-07,CUST266,Coffee Maker,Home Appliances,1,4500,3000,15.0,Credit Card,West,Mumbai,Delivered,120
+ORD10504,2025-05-04,CUST022,Headphones,Electronics,4,2500,1600,5.0,Credit Card,North,Lucknow,Delivered,215
+ORD10505,2025-08-07,CUST148,Backpack,Accessories,1,1800,1100,15.0,Net Banking,South,Bengaluru,Delivered,90
+ORD10506,2025-11-18,CUST134,Smartwatch,Electronics,2,5000,3300,20.0,Debit Card,North,Jaipur,Delivered,339
+ORD10507,2025-12-18,CUST100,T-Shirt,Fashion,4,900,500,0.0,Debit Card,North,Delhi,Delivered,492
+ORD10508,2025-03-06,CUST079,Smartphone,Electronics,3,25000,19000,5.0,Debit Card,West,Mumbai,Cancelled,315
+ORD10509,2025-09-05,CUST025,Headphones,Electronics,2,2500,1600,15.0,Cash on Delivery,West,Pune,Delivered,147
+ORD10510,2025-10-28,CUST164,Laptop,Electronics,4,55000,42000,0.0,Debit Card,North,Delhi,Delivered,186
+ORD10511,2025-03-14,CUST288,Coffee Maker,Home Appliances,1,4500,3000,5.0,UPI,West,Mumbai,Delivered,465
+ORD10512,2025-02-23,CUST127,Smartphone,Electronics,2,25000,19000,10.0,UPI,East,Patna,Delivered,293
+ORD10513,2025-03-14,CUST248,Smartwatch,Electronics,3,5000,3300,5.0,Net Banking,East,Patna,Delivered,452
+ORD10514,2025-02-10,CUST168,Mixer Grinder,Home Appliances,2,3500,2300,5.0,UPI,South,Hyderabad,Shipped,261
+ORD10515,2025-02-16,CUST069,Backpack,Accessories,4,1800,1100,0.0,Debit Card,West,Mumbai,Delivered,415
+ORD10516,2025-03-02,CUST161,Shoes,Fashion,2,3500,2200,10.0,Debit Card,East,Patna,Delivered,367
+ORD10517,2025-12-04,CUST077,Backpack,Accessories,2,1800,1100,10.0,Debit Card,East,Kolkata,Delivered,213
+ORD10518,2025-04-01,CUST073,Desk,Furniture,2,12000,8500,10.0,Cash on Delivery,North,Delhi,Cancelled,258
+ORD10519,2025-10-22,CUST182,Mixer Grinder,Home Appliances,1,3500,2300,15.0,Cash on Delivery,South,Hyderabad,Delivered,333
+ORD10520,2025-07-06,CUST058,Smartphone,Electronics,1,25000,19000,5.0,Debit Card,South,Chennai,Delivered,494
+ORD10521,2025-06-17,CUST107,Bookshelf,Furniture,4,7000,4800,5.0,Cash on Delivery,West,Ahmedabad,Returned,301
+ORD10522,2025-12-20,CUST185,Bookshelf,Furniture,3,7000,4800,10.0,Cash on Delivery,North,Lucknow,Delivered,235
+ORD10523,2025-03-02,CUST129,Desk,Furniture,3,12000,8500,15.0,Debit Card,South,Bengaluru,Cancelled,256
+ORD10524,2025-05-01,CUST133,Desk,Furniture,1,12000,8500,20.0,UPI,North,Lucknow,Delivered,462
+ORD10525,2025-08-30,CUST084,Bookshelf,Furniture,3,7000,4800,10.0,Debit Card,West,Pune,Delivered,158
+ORD10526,2025-05-09,CUST283,Smartwatch,Electronics,4,5000,3300,15.0,Credit Card,West,Pune,Returned,493
+ORD10527,2025-03-02,CUST153,T-Shirt,Fashion,3,900,500,5.0,Cash on Delivery,West,Pune,Returned,101
+ORD10528,2025-02-05,CUST295,Backpack,Accessories,2,1800,1100,5.0,UPI,West,Pune,Delivered,226
+ORD10529,2025-01-06,CUST039,Office Chair,Furniture,3,8500,6000,20.0,UPI,South,Hyderabad,Cancelled,84
+ORD10530,2025-03-28,CUST214,Office Chair,Furniture,1,8500,6000,15.0,UPI,East,Kolkata,Shipped,500
+ORD10531,2025-05-21,CUST045,Office Chair,Furniture,4,8500,6000,15.0,UPI,South,Bengaluru,Returned,161
+ORD10532,2025-05-14,CUST150,Shoes,Fashion,4,3500,2200,5.0,UPI,West,Pune,Cancelled,143
+ORD10533,2025-05-02,CUST162,Laptop,Electronics,2,55000,42000,15.0,UPI,East,Patna,Delivered,164
+ORD10534,2025-07-25,CUST152,Bookshelf,Furniture,3,7000,4800,10.0,Debit Card,East,Patna,Shipped,167
+ORD10535,2025-01-19,CUST175,T-Shirt,Fashion,3,900,500,5.0,Credit Card,North,Delhi,Delivered,473
+ORD10536,2025-05-21,CUST093,Smartphone,Electronics,2,25000,19000,0.0,Cash on Delivery,North,Lucknow,Delivered,467
+ORD10537,2025-05-08,CUST071,Office Chair,Furniture,4,8500,6000,5.0,Cash on Delivery,South,Bengaluru,Shipped,66
+ORD10538,2025-01-07,CUST193,Coffee Maker,Home Appliances,2,4500,3000,0.0,UPI,North,Delhi,Cancelled,152
+ORD10539,2025-01-25,CUST207,Laptop,Electronics,3,55000,42000,20.0,Cash on Delivery,East,Patna,Shipped,436
+ORD10540,2025-05-24,CUST120,Mixer Grinder,Home Appliances,1,3500,2300,15.0,UPI,East,Kolkata,Shipped,122
+ORD10541,2025-12-02,CUST118,T-Shirt,Fashion,1,900,500,10.0,UPI,West,Ahmedabad,Returned,413
+ORD10542,2025-09-28,CUST030,Headphones,Electronics,3,2500,1600,10.0,UPI,North,Jaipur,Delivered,230
+ORD10543,2025-08-12,CUST185,Headphones,Electronics,4,2500,1600,15.0,Net Banking,North,Lucknow,Returned,288
+ORD10544,2025-11-09,CUST045,Bookshelf,Furniture,1,7000,4800,20.0,Net Banking,West,Mumbai,Shipped,131
+ORD10545,2025-08-09,CUST182,Mixer Grinder,Home Appliances,3,3500,2300,10.0,Debit Card,East,Kolkata,Returned,52
+ORD10546,2025-03-01,CUST107,Smartwatch,Electronics,4,5000,3300,10.0,Debit Card,East,Patna,Cancelled,171
+ORD10547,2025-03-03,CUST159,Mixer Grinder,Home Appliances,4,3500,2300,0.0,Net Banking,North,Lucknow,Delivered,442
+ORD10548,2025-05-16,CUST295,Shoes,Fashion,1,3500,2200,5.0,Credit Card,South,Hyderabad,Delivered,363
+ORD10549,2025-07-30,CUST059,Laptop,Electronics,4,55000,42000,15.0,Net Banking,North,Jaipur,Delivered,78
+ORD10550,2025-08-03,CUST064,Bookshelf,Furniture,3,7000,4800,10.0,Credit Card,West,Ahmedabad,Delivered,326
+ORD10551,2025-09-02,CUST170,Coffee Maker,Home Appliances,2,4500,3000,5.0,Cash on Delivery,West,Pune,Shipped,381
+ORD10552,2025-01-16,CUST040,Mixer Grinder,Home Appliances,4,3500,2300,10.0,Cash on Delivery,West,Ahmedabad,Delivered,362
+ORD10553,2025-05-18,CUST081,Smartphone,Electronics,4,25000,19000,10.0,Credit Card,East,Bhubaneswar,Delivered,256
+ORD10554,2025-12-12,CUST224,Smartphone,Electronics,3,25000,19000,5.0,UPI,East,Bhubaneswar,Cancelled,367
+ORD10555,2025-08-27,CUST061,Desk,Furniture,3,12000,8500,10.0,UPI,South,Hyderabad,Cancelled,271
+ORD10556,2025-04-20,CUST278,Bookshelf,Furniture,1,7000,4800,10.0,Credit Card,West,Pune,Returned,405
+ORD10557,2025-10-06,CUST204,Office Chair,Furniture,3,8500,6000,15.0,UPI,West,Mumbai,Delivered,406
+ORD10558,2025-06-14,CUST096,Shoes,Fashion,3,3500,2200,20.0,Debit Card,North,Delhi,Returned,454
+ORD10559,2025-04-30,CUST217,Office Chair,Furniture,2,8500,6000,5.0,Debit Card,East,Bhubaneswar,Returned,225
+ORD10560,2025-03-18,CUST264,Backpack,Accessories,2,1800,1100,5.0,Debit Card,South,Chennai,Delivered,307
+ORD10561,2025-06-25,CUST299,Desk,Furniture,3,12000,8500,15.0,Cash on Delivery,West,Ahmedabad,Returned,189
+ORD10562,2025-12-31,CUST143,Mixer Grinder,Home Appliances,3,3500,2300,10.0,Cash on Delivery,East,Kolkata,Shipped,400
+ORD10563,2025-07-06,CUST291,Laptop,Electronics,1,55000,42000,10.0,Credit Card,North,Jaipur,Delivered,487
+ORD10564,2025-07-26,CUST003,Smartwatch,Electronics,4,5000,3300,10.0,Cash on Delivery,South,Bengaluru,Shipped,491
+ORD10565,2025-01-25,CUST019,Coffee Maker,Home Appliances,4,4500,3000,20.0,Debit Card,North,Jaipur,Delivered,78
+ORD10566,2025-06-02,CUST139,Coffee Maker,Home Appliances,4,4500,3000,10.0,Credit Card,East,Patna,Returned,392
+ORD10567,2025-07-10,CUST149,Bookshelf,Furniture,3,7000,4800,20.0,Net Banking,West,Pune,Delivered,100
+ORD10568,2025-04-23,CUST014,Smartwatch,Electronics,2,5000,3300,15.0,Debit Card,West,Ahmedabad,Delivered,215
+ORD10569,2025-02-24,CUST075,Smartphone,Electronics,2,25000,19000,5.0,Cash on Delivery,East,Patna,Delivered,425
+ORD10570,2025-02-28,CUST064,Office Chair,Furniture,3,8500,6000,0.0,Net Banking,South,Bengaluru,Delivered,231
+ORD10571,2025-08-02,CUST142,Shoes,Fashion,2,3500,2200,0.0,Credit Card,East,Bhubaneswar,Delivered,142
+ORD10572,2025-02-28,CUST118,Smartphone,Electronics,3,25000,19000,15.0,Net Banking,North,Delhi,Cancelled,345
+ORD10573,2025-06-05,CUST013,Desk,Furniture,4,12000,8500,5.0,Cash on Delivery,North,Jaipur,Delivered,143
+ORD10574,2025-08-18,CUST026,Office Chair,Furniture,2,8500,6000,15.0,Debit Card,North,Delhi,Delivered,487
+ORD10575,2025-05-30,CUST209,Shoes,Fashion,4,3500,2200,20.0,Net Banking,East,Patna,Delivered,345
+ORD10576,2025-01-07,CUST239,Backpack,Accessories,4,1800,1100,20.0,Debit Card,East,Patna,Shipped,492
+ORD10577,2025-09-13,CUST179,Backpack,Accessories,3,1800,1100,0.0,Net Banking,South,Chennai,Shipped,468
+ORD10578,2025-08-27,CUST207,Coffee Maker,Home Appliances,3,4500,3000,0.0,Cash on Delivery,North,Delhi,Cancelled,313
+ORD10579,2025-08-19,CUST273,Smartwatch,Electronics,1,5000,3300,15.0,Credit Card,East,Bhubaneswar,Cancelled,482
+ORD10580,2025-04-08,CUST290,Headphones,Electronics,2,2500,1600,15.0,Debit Card,East,Patna,Delivered,107
+ORD10581,2025-08-04,CUST084,Smartphone,Electronics,2,25000,19000,15.0,Debit Card,West,Ahmedabad,Shipped,320
+ORD10582,2025-03-13,CUST110,T-Shirt,Fashion,4,900,500,15.0,Cash on Delivery,South,Chennai,Cancelled,105
+ORD10583,2025-05-18,CUST125,Shoes,Fashion,3,3500,2200,15.0,Cash on Delivery,East,Bhubaneswar,Delivered,98
+ORD10584,2025-03-27,CUST166,Office Chair,Furniture,4,8500,6000,5.0,Credit Card,East,Kolkata,Returned,497
+ORD10585,2025-10-29,CUST266,Backpack,Accessories,4,1800,1100,20.0,Debit Card,East,Patna,Delivered,241
+ORD10586,2025-05-25,CUST106,Bookshelf,Furniture,1,7000,4800,5.0,Cash on Delivery,South,Bengaluru,Delivered,362
+ORD10587,2025-03-30,CUST106,T-Shirt,Fashion,4,900,500,5.0,Cash on Delivery,West,Ahmedabad,Delivered,420
+ORD10588,2025-05-28,CUST208,T-Shirt,Fashion,2,900,500,10.0,UPI,South,Chennai,Returned,131
+ORD10589,2025-02-07,CUST249,Bookshelf,Furniture,3,7000,4800,15.0,Debit Card,East,Bhubaneswar,Delivered,376
+ORD10590,2025-07-15,CUST229,Backpack,Accessories,3,1800,1100,0.0,Debit Card,South,Bengaluru,Shipped,273
+ORD10591,2025-12-12,CUST072,T-Shirt,Fashion,2,900,500,15.0,UPI,East,Bhubaneswar,Shipped,88
+ORD10592,2025-07-10,CUST222,Mixer Grinder,Home Appliances,2,3500,2300,15.0,Debit Card,West,Ahmedabad,Delivered,102
+ORD10593,2025-08-14,CUST200,Headphones,Electronics,4,2500,1600,20.0,UPI,West,Ahmedabad,Cancelled,471
+ORD10594,2025-09-13,CUST287,Headphones,Electronics,3,2500,1600,15.0,Cash on Delivery,East,Kolkata,Returned,226
+ORD10595,2025-12-11,CUST254,Office Chair,Furniture,3,8500,6000,0.0,Cash on Delivery,West,Mumbai,Delivered,336
+ORD10596,2025-01-13,CUST276,Smartwatch,Electronics,1,5000,3300,5.0,Net Banking,South,Bengaluru,Shipped,163
+ORD10597,2025-09-30,CUST219,Laptop,Electronics,4,55000,42000,5.0,Cash on Delivery,West,Ahmedabad,Returned,377
+ORD10598,2025-11-11,CUST229,Shoes,Fashion,2,3500,2200,10.0,UPI,South,Chennai,Delivered,318
+ORD10599,2025-01-02,CUST286,T-Shirt,Fashion,2,900,500,5.0,Cash on Delivery,South,Bengaluru,Delivered,450
+ORD10600,2025-04-04,CUST116,Smartphone,Electronics,1,25000,19000,0.0,UPI,East,Patna,Delivered,473
+ORD10601,2025-02-22,CUST137,Coffee Maker,Home Appliances,3,4500,3000,15.0,UPI,East,Bhubaneswar,Delivered,463
+ORD10602,2025-04-08,CUST271,Headphones,Electronics,4,2500,1600,0.0,Net Banking,East,Patna,Delivered,337
+ORD10603,2025-03-13,CUST107,T-Shirt,Fashion,3,900,500,15.0,Credit Card,South,Hyderabad,Cancelled,370
+ORD10604,2025-04-13,CUST221,Headphones,Electronics,3,2500,1600,0.0,Cash on Delivery,East,Patna,Shipped,465
+ORD10605,2025-02-25,CUST192,Shoes,Fashion,2,3500,2200,5.0,Debit Card,South,Bengaluru,Cancelled,151
+ORD10606,2025-08-15,CUST149,Shoes,Fashion,3,3500,2200,10.0,Debit Card,South,Hyderabad,Delivered,393
+ORD10607,2025-12-25,CUST006,Shoes,Fashion,4,3500,2200,10.0,Debit Card,North,Jaipur,Cancelled,322
+ORD10608,2025-02-07,CUST244,Bookshelf,Furniture,3,7000,4800,20.0,Net Banking,North,Lucknow,Cancelled,420
+ORD10609,2025-10-26,CUST058,Coffee Maker,Home Appliances,4,4500,3000,5.0,UPI,North,Delhi,Delivered,318
+ORD10610,2025-07-07,CUST252,Smartwatch,Electronics,2,5000,3300,10.0,Debit Card,South,Bengaluru,Cancelled,235
+ORD10611,2025-10-11,CUST296,Shoes,Fashion,1,3500,2200,5.0,UPI,South,Chennai,Returned,259
+ORD10612,2025-07-27,CUST137,Bookshelf,Furniture,2,7000,4800,15.0,Net Banking,South,Chennai,Returned,471
+ORD10613,2025-05-22,CUST067,Shoes,Fashion,1,3500,2200,0.0,Credit Card,South,Bengaluru,Cancelled,339
+ORD10614,2025-03-14,CUST010,Desk,Furniture,2,12000,8500,15.0,Debit Card,East,Kolkata,Delivered,497
+ORD10615,2025-07-14,CUST271,Shoes,Fashion,2,3500,2200,10.0,Debit Card,West,Pune,Delivered,162
+ORD10616,2025-02-13,CUST140,T-Shirt,Fashion,2,900,500,5.0,Net Banking,West,Pune,Returned,400
+ORD10617,2025-09-03,CUST149,Backpack,Accessories,1,1800,1100,5.0,UPI,North,Delhi,Delivered,207
+ORD10618,2025-08-02,CUST294,Laptop,Electronics,1,55000,42000,20.0,Cash on Delivery,West,Mumbai,Returned,421
+ORD10619,2025-10-29,CUST070,Coffee Maker,Home Appliances,1,4500,3000,20.0,UPI,East,Kolkata,Delivered,426
+ORD10620,2025-04-01,CUST214,Bookshelf,Furniture,2,7000,4800,20.0,Debit Card,South,Bengaluru,Delivered,276
+ORD10621,2025-06-29,CUST192,Coffee Maker,Home Appliances,1,4500,3000,10.0,Cash on Delivery,South,Hyderabad,Delivered,110
+ORD10622,2025-02-06,CUST197,Office Chair,Furniture,4,8500,6000,10.0,UPI,South,Bengaluru,Delivered,286
+ORD10623,2025-12-26,CUST267,Smartphone,Electronics,4,25000,19000,10.0,Net Banking,North,Delhi,Delivered,79
+ORD10624,2025-03-31,CUST220,Bookshelf,Furniture,1,7000,4800,10.0,Credit Card,South,Bengaluru,Cancelled,496
+ORD10625,2025-08-11,CUST162,T-Shirt,Fashion,2,900,500,20.0,Net Banking,South,Bengaluru,Delivered,233
+ORD10626,2025-10-05,CUST249,Bookshelf,Furniture,4,7000,4800,20.0,Credit Card,North,Delhi,Cancelled,160
+ORD10627,2025-12-01,CUST008,Coffee Maker,Home Appliances,1,4500,3000,10.0,UPI,West,Pune,Delivered,257
+ORD10628,2025-05-21,CUST262,Desk,Furniture,1,12000,8500,0.0,Debit Card,East,Kolkata,Cancelled,127
+ORD10629,2025-10-10,CUST245,Shoes,Fashion,1,3500,2200,0.0,Debit Card,West,Ahmedabad,Delivered,464
+ORD10630,2025-02-27,CUST026,Desk,Furniture,1,12000,8500,0.0,Cash on Delivery,West,Pune,Delivered,467
+ORD10631,2025-07-17,CUST273,Smartwatch,Electronics,3,5000,3300,5.0,UPI,West,Ahmedabad,Cancelled,195
+ORD10632,2025-01-19,CUST100,Backpack,Accessories,3,1800,1100,10.0,Debit Card,East,Bhubaneswar,Delivered,288
+ORD10633,2025-11-13,CUST050,Bookshelf,Furniture,1,7000,4800,0.0,UPI,South,Chennai,Delivered,376
+ORD10634,2025-11-10,CUST239,Smartwatch,Electronics,4,5000,3300,20.0,Net Banking,West,Ahmedabad,Delivered,417
+ORD10635,2025-12-12,CUST287,Bookshelf,Furniture,4,7000,4800,20.0,Debit Card,West,Mumbai,Cancelled,243
+ORD10636,2025-09-28,CUST264,Shoes,Fashion,3,3500,2200,0.0,Net Banking,South,Chennai,Delivered,94
+ORD10637,2025-05-05,CUST230,Backpack,Accessories,1,1800,1100,10.0,Credit Card,East,Kolkata,Delivered,335
+ORD10638,2025-08-09,CUST171,Office Chair,Furniture,3,8500,6000,15.0,Cash on Delivery,West,Pune,Returned,147
+ORD10639,2025-05-02,CUST093,Office Chair,Furniture,1,8500,6000,15.0,Credit Card,West,Ahmedabad,Delivered,53
+ORD10640,2025-04-06,CUST212,Shoes,Fashion,1,3500,2200,20.0,Debit Card,East,Kolkata,Returned,251
+ORD10641,2025-05-19,CUST297,Headphones,Electronics,3,2500,1600,0.0,Debit Card,East,Kolkata,Shipped,145
+ORD10642,2025-10-18,CUST247,Desk,Furniture,2,12000,8500,0.0,Debit Card,South,Chennai,Shipped,199
+ORD10643,2025-01-03,CUST087,Mixer Grinder,Home Appliances,1,3500,2300,15.0,UPI,East,Kolkata,Delivered,125
+ORD10644,2025-08-21,CUST125,Laptop,Electronics,1,55000,42000,5.0,Cash on Delivery,East,Patna,Returned,132
+ORD10645,2025-01-30,CUST248,Smartwatch,Electronics,1,5000,3300,15.0,UPI,South,Bengaluru,Delivered,286
+ORD10646,2025-11-10,CUST116,Coffee Maker,Home Appliances,2,4500,3000,0.0,Credit Card,South,Hyderabad,Delivered,74
+ORD10647,2025-01-11,CUST173,Headphones,Electronics,1,2500,1600,20.0,UPI,East,Patna,Cancelled,263
+ORD10648,2025-05-01,CUST272,Smartphone,Electronics,2,25000,19000,5.0,UPI,East,Bhubaneswar,Delivered,103
+ORD10649,2025-07-06,CUST239,Smartphone,Electronics,2,25000,19000,0.0,Credit Card,North,Jaipur,Delivered,413
+ORD10650,2025-09-03,CUST283,Bookshelf,Furniture,2,7000,4800,5.0,Net Banking,West,Mumbai,Delivered,364
+ORD10651,2025-03-04,CUST292,Mixer Grinder,Home Appliances,1,3500,2300,0.0,Cash on Delivery,North,Delhi,Shipped,425
+ORD10652,2025-10-11,CUST076,Coffee Maker,Home Appliances,2,4500,3000,20.0,Cash on Delivery,West,Mumbai,Cancelled,224
+ORD10653,2025-03-12,CUST293,Backpack,Accessories,1,1800,1100,15.0,Cash on Delivery,East,Kolkata,Delivered,173
+ORD10654,2025-10-02,CUST064,Smartwatch,Electronics,1,5000,3300,5.0,Cash on Delivery,West,Mumbai,Delivered,70
+ORD10655,2025-10-12,CUST164,Backpack,Accessories,4,1800,1100,0.0,Credit Card,West,Mumbai,Cancelled,375
+ORD10656,2025-12-22,CUST034,Smartphone,Electronics,2,25000,19000,20.0,Cash on Delivery,West,Pune,Delivered,324
+ORD10657,2025-01-22,CUST231,Desk,Furniture,4,12000,8500,15.0,Debit Card,West,Mumbai,Delivered,416
+ORD10658,2025-04-26,CUST009,Desk,Furniture,3,12000,8500,0.0,Net Banking,West,Ahmedabad,Delivered,197
+ORD10659,2025-12-09,CUST278,Smartphone,Electronics,2,25000,19000,10.0,Credit Card,West,Pune,Delivered,214
+ORD10660,2025-03-18,CUST095,Bookshelf,Furniture,2,7000,4800,0.0,Net Banking,North,Lucknow,Delivered,155
+ORD10661,2025-12-07,CUST181,Coffee Maker,Home Appliances,1,4500,3000,10.0,Credit Card,North,Jaipur,Delivered,144
+ORD10662,2025-05-10,CUST144,Smartwatch,Electronics,2,5000,3300,15.0,Cash on Delivery,East,Kolkata,Returned,322
+ORD10663,2025-05-09,CUST095,Mixer Grinder,Home Appliances,3,3500,2300,20.0,UPI,South,Chennai,Delivered,53
+ORD10664,2025-11-17,CUST106,Mixer Grinder,Home Appliances,3,3500,2300,15.0,Credit Card,East,Bhubaneswar,Delivered,230
+ORD10665,2025-04-18,CUST171,Shoes,Fashion,3,3500,2200,5.0,Debit Card,West,Mumbai,Shipped,345
+ORD10666,2025-07-14,CUST182,Headphones,Electronics,2,2500,1600,10.0,Credit Card,East,Bhubaneswar,Delivered,418
+ORD10667,2025-07-01,CUST284,Smartphone,Electronics,2,25000,19000,15.0,UPI,East,Bhubaneswar,Shipped,215
+ORD10668,2025-10-25,CUST042,Coffee Maker,Home Appliances,4,4500,3000,0.0,Cash on Delivery,East,Bhubaneswar,Cancelled,382
+ORD10669,2025-08-30,CUST162,Desk,Furniture,3,12000,8500,10.0,Credit Card,South,Hyderabad,Delivered,90
+ORD10670,2025-03-14,CUST010,Smartphone,Electronics,4,25000,19000,5.0,UPI,East,Bhubaneswar,Delivered,250
+ORD10671,2025-03-01,CUST124,Smartwatch,Electronics,2,5000,3300,0.0,Net Banking,South,Bengaluru,Cancelled,484
+ORD10672,2025-06-08,CUST015,Mixer Grinder,Home Appliances,1,3500,2300,5.0,Net Banking,North,Lucknow,Shipped,334
+ORD10673,2025-05-05,CUST110,Bookshelf,Furniture,3,7000,4800,20.0,Cash on Delivery,West,Mumbai,Delivered,443
+ORD10674,2025-05-08,CUST036,Shoes,Fashion,2,3500,2200,15.0,Cash on Delivery,North,Lucknow,Delivered,199
+ORD10675,2025-08-05,CUST164,Desk,Furniture,4,12000,8500,0.0,Net Banking,West,Mumbai,Delivered,478
+ORD10676,2025-05-31,CUST187,Desk,Furniture,4,12000,8500,20.0,Cash on Delivery,North,Jaipur,Delivered,172
+ORD10677,2025-08-31,CUST087,Office Chair,Furniture,2,8500,6000,15.0,Cash on Delivery,South,Chennai,Returned,449
+ORD10678,2025-06-18,CUST261,Bookshelf,Furniture,2,7000,4800,15.0,Cash on Delivery,North,Delhi,Delivered,147
+ORD10679,2025-04-14,CUST043,Smartwatch,Electronics,4,5000,3300,10.0,UPI,South,Bengaluru,Shipped,255
+ORD10680,2025-03-24,CUST212,Headphones,Electronics,2,2500,1600,20.0,Debit Card,North,Delhi,Shipped,300
+ORD10681,2025-04-05,CUST219,T-Shirt,Fashion,2,900,500,5.0,UPI,West,Ahmedabad,Returned,478
+ORD10682,2025-12-09,CUST054,Laptop,Electronics,4,55000,42000,10.0,Debit Card,West,Mumbai,Shipped,472
+ORD10683,2025-01-16,CUST193,Desk,Furniture,3,12000,8500,15.0,Credit Card,East,Kolkata,Shipped,95
+ORD10684,2025-07-13,CUST008,Laptop,Electronics,1,55000,42000,15.0,Cash on Delivery,North,Delhi,Delivered,375
+ORD10685,2025-07-07,CUST204,Laptop,Electronics,3,55000,42000,20.0,Net Banking,North,Jaipur,Shipped,413
+ORD10686,2025-06-16,CUST102,Smartwatch,Electronics,4,5000,3300,10.0,Debit Card,South,Hyderabad,Shipped,324
+ORD10687,2025-03-27,CUST043,Mixer Grinder,Home Appliances,4,3500,2300,15.0,Debit Card,East,Bhubaneswar,Delivered,160
+ORD10688,2025-12-12,CUST299,Shoes,Fashion,4,3500,2200,10.0,Cash on Delivery,East,Kolkata,Delivered,75
+ORD10689,2025-07-30,CUST207,T-Shirt,Fashion,4,900,500,10.0,Debit Card,West,Mumbai,Delivered,317
+ORD10690,2025-01-11,CUST275,Coffee Maker,Home Appliances,2,4500,3000,5.0,Net Banking,East,Patna,Cancelled,476
+ORD10691,2025-08-08,CUST052,Laptop,Electronics,1,55000,42000,10.0,Debit Card,East,Kolkata,Returned,281
+ORD10692,2025-06-03,CUST051,Smartwatch,Electronics,2,5000,3300,15.0,Cash on Delivery,South,Hyderabad,Shipped,476
+ORD10693,2025-07-27,CUST118,Office Chair,Furniture,1,8500,6000,20.0,UPI,South,Chennai,Delivered,138
+ORD10694,2025-03-16,CUST122,Desk,Furniture,4,12000,8500,0.0,Debit Card,West,Mumbai,Delivered,56
+ORD10695,2025-08-03,CUST235,Desk,Furniture,1,12000,8500,5.0,UPI,South,Hyderabad,Delivered,77
+ORD10696,2025-01-29,CUST270,T-Shirt,Fashion,3,900,500,0.0,Debit Card,West,Ahmedabad,Cancelled,213
+ORD10697,2025-07-27,CUST173,Bookshelf,Furniture,2,7000,4800,15.0,UPI,North,Delhi,Delivered,142
+ORD10698,2025-02-16,CUST087,Desk,Furniture,1,12000,8500,15.0,UPI,East,Kolkata,Delivered,471
+ORD10699,2025-12-03,CUST138,Backpack,Accessories,2,1800,1100,0.0,UPI,West,Ahmedabad,Returned,218
+ORD10700,2025-11-04,CUST188,Smartphone,Electronics,1,25000,19000,0.0,Credit Card,West,Ahmedabad,Delivered,285
+ORD10701,2025-08-06,CUST178,Laptop,Electronics,4,55000,42000,0.0,UPI,West,Mumbai,Shipped,120
+ORD10702,2025-09-10,CUST244,Headphones,Electronics,4,2500,1600,10.0,Debit Card,South,Chennai,Delivered,341
+ORD10703,2025-05-26,CUST016,Mixer Grinder,Home Appliances,4,3500,2300,15.0,Debit Card,South,Hyderabad,Returned,462
+ORD10704,2025-01-31,CUST039,Mixer Grinder,Home Appliances,4,3500,2300,20.0,Credit Card,East,Patna,Returned,66
+ORD10705,2025-01-30,CUST108,T-Shirt,Fashion,2,900,500,10.0,Net Banking,West,Mumbai,Cancelled,115
+ORD10706,2025-03-31,CUST087,Smartwatch,Electronics,1,5000,3300,20.0,Credit Card,North,Lucknow,Shipped,306
+ORD10707,2025-02-13,CUST095,Desk,Furniture,4,12000,8500,10.0,Cash on Delivery,West,Ahmedabad,Cancelled,150
+ORD10708,2025-02-02,CUST118,T-Shirt,Fashion,2,900,500,20.0,Debit Card,East,Kolkata,Returned,61
+ORD10709,2025-11-28,CUST235,T-Shirt,Fashion,3,900,500,20.0,Cash on Delivery,West,Ahmedabad,Returned,210
+ORD10710,2025-06-21,CUST135,Smartphone,Electronics,2,25000,19000,5.0,Debit Card,West,Mumbai,Delivered,308
+ORD10711,2025-07-05,CUST095,Bookshelf,Furniture,1,7000,4800,15.0,Credit Card,West,Ahmedabad,Delivered,492
+ORD10712,2025-07-29,CUST093,Smartwatch,Electronics,4,5000,3300,0.0,Credit Card,East,Patna,Delivered,147
+ORD10713,2025-01-25,CUST055,Desk,Furniture,3,12000,8500,0.0,Debit Card,East,Kolkata,Returned,134
+ORD10714,2025-08-12,CUST265,Backpack,Accessories,4,1800,1100,10.0,Credit Card,East,Bhubaneswar,Shipped,168
+ORD10715,2025-08-03,CUST251,Desk,Furniture,1,12000,8500,5.0,Credit Card,West,Pune,Returned,102
+ORD10716,2025-12-05,CUST035,Backpack,Accessories,2,1800,1100,15.0,Net Banking,East,Patna,Returned,78
+ORD10717,2025-03-08,CUST175,Desk,Furniture,4,12000,8500,5.0,Net Banking,North,Jaipur,Delivered,389
+ORD10718,2025-02-14,CUST009,Office Chair,Furniture,4,8500,6000,20.0,Net Banking,North,Jaipur,Cancelled,244
+ORD10719,2025-11-23,CUST278,Office Chair,Furniture,3,8500,6000,5.0,UPI,South,Hyderabad,Shipped,474
+ORD10720,2025-09-23,CUST012,Bookshelf,Furniture,3,7000,4800,0.0,UPI,North,Delhi,Delivered,355
+ORD10721,2025-11-30,CUST279,Bookshelf,Furniture,1,7000,4800,15.0,Debit Card,East,Kolkata,Cancelled,426
+ORD10722,2025-01-25,CUST284,Office Chair,Furniture,2,8500,6000,20.0,Credit Card,East,Patna,Delivered,92
+ORD10723,2025-04-02,CUST111,Bookshelf,Furniture,3,7000,4800,10.0,UPI,South,Hyderabad,Delivered,209
+ORD10724,2025-03-09,CUST006,Bookshelf,Furniture,2,7000,4800,0.0,Cash on Delivery,North,Delhi,Shipped,372
+ORD10725,2025-05-28,CUST066,Office Chair,Furniture,2,8500,6000,5.0,Credit Card,South,Hyderabad,Returned,416
+ORD10726,2025-04-24,CUST203,Smartphone,Electronics,3,25000,19000,0.0,Debit Card,East,Bhubaneswar,Delivered,488
+ORD10727,2025-01-26,CUST216,Backpack,Accessories,2,1800,1100,20.0,UPI,West,Pune,Delivered,477
+ORD10728,2025-08-02,CUST076,Headphones,Electronics,3,2500,1600,10.0,Net Banking,East,Patna,Delivered,387
+ORD10729,2025-10-16,CUST180,Bookshelf,Furniture,3,7000,4800,15.0,Cash on Delivery,East,Patna,Cancelled,428
+ORD10730,2025-04-09,CUST080,Laptop,Electronics,2,55000,42000,10.0,Cash on Delivery,West,Pune,Cancelled,217
+ORD10731,2025-11-06,CUST173,Backpack,Accessories,2,1800,1100,15.0,Net Banking,East,Bhubaneswar,Returned,468
+ORD10732,2025-03-26,CUST065,Backpack,Accessories,2,1800,1100,20.0,Debit Card,West,Ahmedabad,Returned,458
+ORD10733,2025-12-18,CUST225,Mixer Grinder,Home Appliances,2,3500,2300,20.0,Cash on Delivery,East,Patna,Delivered,195
+ORD10734,2025-12-13,CUST168,Backpack,Accessories,1,1800,1100,15.0,Debit Card,South,Bengaluru,Delivered,137
+ORD10735,2025-12-06,CUST245,Backpack,Accessories,3,1800,1100,10.0,Cash on Delivery,North,Lucknow,Delivered,186
+ORD10736,2025-10-23,CUST177,Office Chair,Furniture,4,8500,6000,20.0,Net Banking,East,Kolkata,Shipped,126
+ORD10737,2025-04-02,CUST025,Desk,Furniture,1,12000,8500,15.0,Credit Card,West,Pune,Delivered,474
+ORD10738,2025-11-27,CUST075,T-Shirt,Fashion,1,900,500,20.0,Credit Card,West,Ahmedabad,Delivered,87
+ORD10739,2025-12-21,CUST241,Backpack,Accessories,1,1800,1100,10.0,Net Banking,West,Pune,Shipped,195
+ORD10740,2025-07-09,CUST126,Shoes,Fashion,1,3500,2200,15.0,Debit Card,North,Jaipur,Delivered,202
+ORD10741,2025-08-09,CUST016,T-Shirt,Fashion,3,900,500,10.0,Debit Card,North,Lucknow,Delivered,74
+ORD10742,2025-12-02,CUST045,Laptop,Electronics,4,55000,42000,5.0,Cash on Delivery,East,Kolkata,Delivered,83
+ORD10743,2025-02-17,CUST030,Desk,Furniture,3,12000,8500,5.0,UPI,South,Hyderabad,Delivered,59
+ORD10744,2025-03-29,CUST015,Smartphone,Electronics,4,25000,19000,20.0,Net Banking,East,Bhubaneswar,Returned,378
+ORD10745,2025-04-19,CUST209,Shoes,Fashion,1,3500,2200,5.0,Debit Card,South,Hyderabad,Delivered,437
+ORD10746,2025-09-04,CUST146,Smartwatch,Electronics,1,5000,3300,15.0,Credit Card,West,Pune,Shipped,128
+ORD10747,2025-04-19,CUST105,Smartwatch,Electronics,2,5000,3300,20.0,Debit Card,East,Kolkata,Returned,144
+ORD10748,2025-09-24,CUST164,T-Shirt,Fashion,3,900,500,20.0,Cash on Delivery,West,Pune,Delivered,347
+ORD10749,2025-03-14,CUST060,Office Chair,Furniture,4,8500,6000,5.0,Cash on Delivery,East,Kolkata,Returned,295
+ORD10750,2025-07-16,CUST276,Coffee Maker,Home Appliances,3,4500,3000,0.0,Net Banking,North,Jaipur,Returned,336
+ORD10751,2025-06-02,CUST220,Laptop,Electronics,1,55000,42000,5.0,Credit Card,North,Lucknow,Returned,408
+ORD10752,2025-07-05,CUST192,Desk,Furniture,3,12000,8500,5.0,Cash on Delivery,North,Jaipur,Delivered,124
+ORD10753,2025-11-14,CUST015,Desk,Furniture,4,12000,8500,0.0,UPI,East,Patna,Delivered,373
+ORD10754,2025-07-02,CUST100,Backpack,Accessories,2,1800,1100,0.0,Debit Card,North,Jaipur,Delivered,407
+ORD10755,2025-08-20,CUST080,T-Shirt,Fashion,3,900,500,5.0,Net Banking,West,Ahmedabad,Delivered,269
+ORD10756,2025-07-10,CUST155,Coffee Maker,Home Appliances,1,4500,3000,20.0,Credit Card,North,Delhi,Delivered,56
+ORD10757,2025-01-06,CUST134,Smartwatch,Electronics,4,5000,3300,5.0,Cash on Delivery,South,Hyderabad,Cancelled,264
+ORD10758,2025-12-03,CUST115,T-Shirt,Fashion,2,900,500,10.0,Credit Card,South,Bengaluru,Delivered,75
+ORD10759,2025-06-15,CUST176,Headphones,Electronics,1,2500,1600,10.0,Cash on Delivery,East,Patna,Cancelled,139
+ORD10760,2025-08-10,CUST112,Shoes,Fashion,3,3500,2200,10.0,Debit Card,South,Bengaluru,Returned,325
+ORD10761,2025-06-06,CUST246,T-Shirt,Fashion,3,900,500,15.0,Cash on Delivery,North,Delhi,Returned,84
+ORD10762,2025-08-07,CUST041,Mixer Grinder,Home Appliances,4,3500,2300,15.0,Debit Card,North,Delhi,Delivered,136
+ORD10763,2025-06-27,CUST187,Coffee Maker,Home Appliances,3,4500,3000,15.0,UPI,West,Pune,Delivered,214
+ORD10764,2025-06-24,CUST270,Office Chair,Furniture,2,8500,6000,10.0,Cash on Delivery,North,Jaipur,Shipped,165
+ORD10765,2025-01-24,CUST206,Laptop,Electronics,4,55000,42000,5.0,Credit Card,East,Bhubaneswar,Returned,99
+ORD10766,2025-09-28,CUST264,Desk,Furniture,2,12000,8500,15.0,Debit Card,East,Patna,Cancelled,296
+ORD10767,2025-12-18,CUST269,T-Shirt,Fashion,1,900,500,15.0,UPI,North,Lucknow,Delivered,290
+ORD10768,2025-12-15,CUST192,Bookshelf,Furniture,2,7000,4800,5.0,Cash on Delivery,South,Hyderabad,Delivered,464
+ORD10769,2025-12-13,CUST089,Desk,Furniture,2,12000,8500,5.0,Cash on Delivery,South,Chennai,Delivered,258
+ORD10770,2025-01-22,CUST122,Office Chair,Furniture,3,8500,6000,20.0,UPI,West,Pune,Delivered,321
+ORD10771,2025-05-10,CUST081,Laptop,Electronics,4,55000,42000,20.0,UPI,East,Kolkata,Shipped,472
+ORD10772,2025-01-16,CUST201,Office Chair,Furniture,3,8500,6000,0.0,Cash on Delivery,West,Mumbai,Delivered,214
+ORD10773,2025-09-22,CUST214,T-Shirt,Fashion,3,900,500,15.0,Credit Card,North,Lucknow,Returned,391
+ORD10774,2025-04-07,CUST097,Desk,Furniture,2,12000,8500,0.0,UPI,East,Patna,Delivered,432
+ORD10775,2025-10-10,CUST161,Smartwatch,Electronics,3,5000,3300,10.0,Net Banking,North,Lucknow,Delivered,81
+ORD10776,2025-08-16,CUST056,T-Shirt,Fashion,4,900,500,5.0,UPI,South,Bengaluru,Shipped,136
+ORD10777,2025-07-01,CUST171,Shoes,Fashion,1,3500,2200,0.0,Cash on Delivery,North,Lucknow,Delivered,278
+ORD10778,2025-07-01,CUST196,Laptop,Electronics,3,55000,42000,5.0,Debit Card,North,Lucknow,Returned,403
+ORD10779,2025-04-16,CUST068,Shoes,Fashion,3,3500,2200,5.0,UPI,North,Lucknow,Delivered,242
+ORD10780,2025-10-12,CUST009,Smartphone,Electronics,1,25000,19000,5.0,Debit Card,East,Patna,Returned,383
+ORD10781,2025-07-03,CUST065,Bookshelf,Furniture,3,7000,4800,15.0,UPI,East,Kolkata,Delivered,460
+ORD10782,2025-03-24,CUST099,Shoes,Fashion,2,3500,2200,0.0,Cash on Delivery,South,Bengaluru,Cancelled,488
+ORD10783,2025-05-06,CUST042,Mixer Grinder,Home Appliances,1,3500,2300,10.0,Credit Card,West,Mumbai,Delivered,474
+ORD10784,2025-05-02,CUST110,Smartphone,Electronics,1,25000,19000,0.0,Debit Card,South,Bengaluru,Returned,256
+ORD10785,2025-10-18,CUST198,Headphones,Electronics,2,2500,1600,20.0,Cash on Delivery,South,Hyderabad,Delivered,434
+ORD10786,2025-08-07,CUST061,Headphones,Electronics,1,2500,1600,20.0,Credit Card,North,Delhi,Delivered,65
+ORD10787,2025-03-15,CUST187,Laptop,Electronics,4,55000,42000,10.0,Net Banking,West,Mumbai,Shipped,322
+ORD10788,2025-12-01,CUST078,Backpack,Accessories,2,1800,1100,20.0,Debit Card,East,Bhubaneswar,Delivered,255
+ORD10789,2025-05-05,CUST150,Coffee Maker,Home Appliances,1,4500,3000,20.0,UPI,North,Lucknow,Delivered,189
+ORD10790,2025-08-27,CUST211,Laptop,Electronics,1,55000,42000,5.0,Credit Card,West,Ahmedabad,Cancelled,247
+ORD10791,2025-01-23,CUST044,Laptop,Electronics,2,55000,42000,20.0,Debit Card,South,Bengaluru,Delivered,440
+ORD10792,2025-04-19,CUST069,Laptop,Electronics,3,55000,42000,10.0,Cash on Delivery,West,Mumbai,Delivered,234
+ORD10793,2025-04-07,CUST035,Backpack,Accessories,4,1800,1100,20.0,Debit Card,East,Kolkata,Returned,203
+ORD10794,2025-06-18,CUST032,Smartphone,Electronics,1,25000,19000,10.0,Credit Card,North,Delhi,Delivered,363
+ORD10795,2025-01-01,CUST006,Backpack,Accessories,1,1800,1100,15.0,Credit Card,South,Hyderabad,Returned,273
+ORD10796,2025-06-07,CUST209,Coffee Maker,Home Appliances,4,4500,3000,20.0,UPI,North,Lucknow,Delivered,175
+ORD10797,2025-11-03,CUST208,Headphones,Electronics,4,2500,1600,15.0,UPI,East,Kolkata,Returned,105
+ORD10798,2025-07-28,CUST130,Mixer Grinder,Home Appliances,4,3500,2300,10.0,Net Banking,East,Bhubaneswar,Delivered,491
+ORD10799,2025-08-03,CUST074,Backpack,Accessories,4,1800,1100,5.0,UPI,South,Hyderabad,Shipped,252
+ORD10800,2025-06-15,CUST120,Mixer Grinder,Home Appliances,1,3500,2300,20.0,UPI,West,Pune,Delivered,393
+ORD10801,2025-11-09,CUST137,Shoes,Fashion,2,3500,2200,0.0,Net Banking,West,Pune,Delivered,367
+ORD10802,2025-11-02,CUST149,Laptop,Electronics,4,55000,42000,5.0,Credit Card,West,Pune,Returned,252
+ORD10803,2025-12-31,CUST212,Shoes,Fashion,1,3500,2200,5.0,Cash on Delivery,East,Kolkata,Shipped,91
+ORD10804,2025-03-14,CUST223,Smartphone,Electronics,2,25000,19000,0.0,Net Banking,North,Delhi,Delivered,206
+ORD10805,2025-02-16,CUST205,Mixer Grinder,Home Appliances,3,3500,2300,15.0,Debit Card,West,Mumbai,Returned,314
+ORD10806,2025-09-04,CUST026,Bookshelf,Furniture,3,7000,4800,5.0,UPI,West,Pune,Delivered,485
+ORD10807,2025-12-04,CUST298,Coffee Maker,Home Appliances,4,4500,3000,20.0,Debit Card,East,Bhubaneswar,Delivered,180
+ORD10808,2025-03-17,CUST049,Bookshelf,Furniture,1,7000,4800,10.0,Credit Card,North,Delhi,Delivered,412
+ORD10809,2025-12-22,CUST189,Shoes,Fashion,1,3500,2200,15.0,UPI,West,Mumbai,Delivered,449
+ORD10810,2025-04-28,CUST157,T-Shirt,Fashion,4,900,500,5.0,Net Banking,East,Kolkata,Cancelled,249
+ORD10811,2025-08-21,CUST090,Smartwatch,Electronics,2,5000,3300,10.0,UPI,South,Bengaluru,Delivered,203
+ORD10812,2025-03-04,CUST253,T-Shirt,Fashion,3,900,500,15.0,Credit Card,West,Mumbai,Delivered,117
+ORD10813,2025-10-13,CUST044,Smartphone,Electronics,1,25000,19000,15.0,UPI,East,Bhubaneswar,Shipped,267
+ORD10814,2025-08-24,CUST066,Shoes,Fashion,2,3500,2200,20.0,Credit Card,North,Lucknow,Delivered,461
+ORD10815,2025-12-03,CUST084,Backpack,Accessories,2,1800,1100,15.0,Net Banking,South,Bengaluru,Delivered,179
+ORD10816,2025-09-25,CUST078,Headphones,Electronics,4,2500,1600,5.0,Debit Card,South,Bengaluru,Delivered,149
+ORD10817,2025-07-11,CUST180,Bookshelf,Furniture,4,7000,4800,5.0,Debit Card,West,Ahmedabad,Cancelled,61
+ORD10818,2025-03-12,CUST084,Office Chair,Furniture,4,8500,6000,10.0,Debit Card,North,Jaipur,Shipped,311
+ORD10819,2025-10-31,CUST011,Mixer Grinder,Home Appliances,3,3500,2300,10.0,Debit Card,West,Pune,Delivered,118
+ORD10820,2025-06-30,CUST093,Office Chair,Furniture,1,8500,6000,0.0,UPI,South,Bengaluru,Delivered,320
+ORD10821,2025-05-29,CUST106,Office Chair,Furniture,1,8500,6000,10.0,Cash on Delivery,South,Chennai,Delivered,471
+ORD10822,2025-01-14,CUST119,Backpack,Accessories,2,1800,1100,15.0,Credit Card,South,Bengaluru,Delivered,343
+ORD10823,2025-05-25,CUST268,Coffee Maker,Home Appliances,3,4500,3000,10.0,Net Banking,East,Kolkata,Delivered,306
+ORD10824,2025-03-26,CUST197,Smartphone,Electronics,2,25000,19000,0.0,Debit Card,East,Kolkata,Delivered,181
+ORD10825,2025-11-26,CUST267,Bookshelf,Furniture,2,7000,4800,20.0,UPI,North,Delhi,Returned,356
+ORD10826,2025-01-02,CUST124,Bookshelf,Furniture,4,7000,4800,5.0,Cash on Delivery,South,Hyderabad,Delivered,188
+ORD10827,2025-07-31,CUST253,Coffee Maker,Home Appliances,4,4500,3000,15.0,Credit Card,West,Pune,Shipped,411
+ORD10828,2025-08-24,CUST135,Desk,Furniture,2,12000,8500,15.0,UPI,West,Pune,Delivered,265
+ORD10829,2025-10-21,CUST086,Coffee Maker,Home Appliances,2,4500,3000,20.0,Net Banking,West,Ahmedabad,Delivered,93
+ORD10830,2025-05-25,CUST051,Backpack,Accessories,3,1800,1100,5.0,Credit Card,East,Kolkata,Shipped,343
+ORD10831,2025-12-07,CUST018,Shoes,Fashion,1,3500,2200,0.0,Net Banking,West,Ahmedabad,Delivered,492
+ORD10832,2025-10-31,CUST110,Smartwatch,Electronics,2,5000,3300,10.0,UPI,East,Bhubaneswar,Delivered,123
+ORD10833,2025-10-09,CUST226,Coffee Maker,Home Appliances,1,4500,3000,10.0,UPI,East,Kolkata,Delivered,328
+ORD10834,2025-10-14,CUST258,Shoes,Fashion,4,3500,2200,0.0,Credit Card,South,Bengaluru,Returned,262
+ORD10835,2025-08-14,CUST246,Laptop,Electronics,4,55000,42000,10.0,Credit Card,West,Pune,Cancelled,484
+ORD10836,2025-01-30,CUST177,Shoes,Fashion,4,3500,2200,20.0,Debit Card,South,Chennai,Delivered,443
+ORD10837,2025-06-13,CUST089,Coffee Maker,Home Appliances,1,4500,3000,20.0,Net Banking,East,Kolkata,Delivered,345
+ORD10838,2025-08-17,CUST279,Headphones,Electronics,2,2500,1600,10.0,Debit Card,North,Lucknow,Cancelled,491
+ORD10839,2025-10-07,CUST018,Laptop,Electronics,2,55000,42000,20.0,UPI,East,Bhubaneswar,Shipped,441
+ORD10840,2025-01-13,CUST090,Coffee Maker,Home Appliances,3,4500,3000,20.0,Debit Card,West,Ahmedabad,Delivered,308
+ORD10841,2025-04-18,CUST258,Coffee Maker,Home Appliances,4,4500,3000,5.0,Cash on Delivery,East,Bhubaneswar,Returned,126
+ORD10842,2025-03-29,CUST032,Coffee Maker,Home Appliances,4,4500,3000,15.0,Cash on Delivery,East,Kolkata,Shipped,378
+ORD10843,2025-11-26,CUST181,Office Chair,Furniture,4,8500,6000,20.0,Credit Card,East,Patna,Returned,218
+ORD10844,2025-05-07,CUST255,Coffee Maker,Home Appliances,3,4500,3000,15.0,Net Banking,South,Chennai,Shipped,465
+ORD10845,2025-01-11,CUST151,Desk,Furniture,4,12000,8500,5.0,Cash on Delivery,North,Delhi,Shipped,494
+ORD10846,2025-05-31,CUST068,Laptop,Electronics,3,55000,42000,20.0,Cash on Delivery,East,Patna,Delivered,304
+ORD10847,2025-03-31,CUST009,T-Shirt,Fashion,1,900,500,0.0,Net Banking,East,Bhubaneswar,Shipped,269
+ORD10848,2025-07-01,CUST226,Desk,Furniture,4,12000,8500,10.0,Cash on Delivery,West,Mumbai,Returned,246
+ORD10849,2025-03-19,CUST181,Coffee Maker,Home Appliances,3,4500,3000,5.0,UPI,East,Kolkata,Returned,471
+ORD10850,2025-07-19,CUST171,Shoes,Fashion,1,3500,2200,10.0,UPI,South,Hyderabad,Returned,123
+ORD10851,2025-08-09,CUST004,Desk,Furniture,3,12000,8500,10.0,Credit Card,West,Pune,Delivered,59
+ORD10852,2025-04-08,CUST009,T-Shirt,Fashion,4,900,500,20.0,Cash on Delivery,South,Bengaluru,Shipped,500
+ORD10853,2025-03-04,CUST260,Smartphone,Electronics,1,25000,19000,5.0,Cash on Delivery,East,Patna,Delivered,154
+ORD10854,2025-06-19,CUST069,Smartphone,Electronics,4,25000,19000,15.0,Credit Card,East,Bhubaneswar,Delivered,165
+ORD10855,2025-12-18,CUST251,Laptop,Electronics,2,55000,42000,0.0,Debit Card,South,Bengaluru,Delivered,417
+ORD10856,2025-03-31,CUST059,Coffee Maker,Home Appliances,1,4500,3000,15.0,UPI,West,Ahmedabad,Delivered,482
+ORD10857,2025-02-18,CUST098,Backpack,Accessories,4,1800,1100,10.0,UPI,South,Bengaluru,Delivered,348
+ORD10858,2025-01-27,CUST195,Coffee Maker,Home Appliances,4,4500,3000,15.0,UPI,South,Hyderabad,Cancelled,463
+ORD10859,2025-08-30,CUST076,Smartphone,Electronics,3,25000,19000,15.0,Cash on Delivery,South,Hyderabad,Delivered,354
+ORD10860,2025-12-09,CUST207,Bookshelf,Furniture,2,7000,4800,20.0,Net Banking,East,Kolkata,Shipped,133
+ORD10861,2025-02-06,CUST045,Office Chair,Furniture,1,8500,6000,10.0,Credit Card,North,Delhi,Cancelled,463
+ORD10862,2025-11-04,CUST007,Smartwatch,Electronics,3,5000,3300,20.0,UPI,West,Mumbai,Delivered,349
+ORD10863,2025-02-03,CUST266,Office Chair,Furniture,2,8500,6000,20.0,Credit Card,West,Mumbai,Delivered,104
+ORD10864,2025-01-10,CUST128,Backpack,Accessories,2,1800,1100,10.0,Debit Card,West,Pune,Shipped,493
+ORD10865,2025-04-02,CUST213,Shoes,Fashion,1,3500,2200,20.0,UPI,North,Delhi,Delivered,79
+ORD10866,2025-02-27,CUST296,Laptop,Electronics,1,55000,42000,15.0,Debit Card,West,Pune,Returned,494
+ORD10867,2025-11-02,CUST097,Headphones,Electronics,1,2500,1600,20.0,Cash on Delivery,West,Mumbai,Delivered,383
+ORD10868,2025-04-18,CUST071,Laptop,Electronics,2,55000,42000,0.0,Credit Card,West,Mumbai,Delivered,434
+ORD10869,2025-05-07,CUST182,Office Chair,Furniture,4,8500,6000,15.0,UPI,East,Bhubaneswar,Delivered,453
+ORD10870,2025-10-04,CUST019,Office Chair,Furniture,2,8500,6000,0.0,UPI,South,Chennai,Delivered,142
+ORD10871,2025-10-04,CUST153,Headphones,Electronics,3,2500,1600,0.0,Cash on Delivery,East,Kolkata,Cancelled,89
+ORD10872,2025-06-21,CUST198,Backpack,Accessories,1,1800,1100,5.0,Debit Card,West,Mumbai,Shipped,233
+ORD10873,2025-07-20,CUST275,Laptop,Electronics,1,55000,42000,20.0,Debit Card,South,Bengaluru,Returned,371
+ORD10874,2025-02-11,CUST017,Desk,Furniture,3,12000,8500,15.0,Debit Card,East,Kolkata,Returned,378
+ORD10875,2025-01-19,CUST246,Smartphone,Electronics,1,25000,19000,20.0,Debit Card,West,Mumbai,Returned,472
+ORD10876,2025-02-05,CUST197,Laptop,Electronics,4,55000,42000,20.0,Net Banking,South,Bengaluru,Delivered,437
+ORD10877,2025-07-15,CUST057,Shoes,Fashion,3,3500,2200,20.0,Debit Card,South,Hyderabad,Delivered,195
+ORD10878,2025-10-13,CUST279,Smartphone,Electronics,4,25000,19000,10.0,UPI,North,Delhi,Delivered,148
+ORD10879,2025-09-28,CUST214,Bookshelf,Furniture,4,7000,4800,15.0,Debit Card,South,Hyderabad,Delivered,468
+ORD10880,2025-11-17,CUST129,Bookshelf,Furniture,1,7000,4800,0.0,Credit Card,West,Mumbai,Returned,158
+ORD10881,2025-04-06,CUST146,Mixer Grinder,Home Appliances,2,3500,2300,15.0,Debit Card,East,Patna,Delivered,391
+ORD10882,2025-06-16,CUST072,Smartphone,Electronics,1,25000,19000,20.0,Credit Card,East,Patna,Returned,131
+ORD10883,2025-02-07,CUST200,Smartwatch,Electronics,3,5000,3300,0.0,Debit Card,North,Lucknow,Delivered,250
+ORD10884,2025-08-08,CUST204,Smartphone,Electronics,2,25000,19000,15.0,Credit Card,West,Pune,Delivered,216
+ORD10885,2025-10-31,CUST068,Desk,Furniture,4,12000,8500,20.0,UPI,South,Bengaluru,Delivered,215
+ORD10886,2025-12-17,CUST108,Backpack,Accessories,4,1800,1100,5.0,Credit Card,South,Hyderabad,Delivered,182
+ORD10887,2025-12-25,CUST108,Desk,Furniture,2,12000,8500,5.0,Credit Card,East,Bhubaneswar,Delivered,123
+ORD10888,2025-11-14,CUST119,Smartwatch,Electronics,1,5000,3300,10.0,Credit Card,South,Bengaluru,Cancelled,301
+ORD10889,2025-02-14,CUST044,Smartphone,Electronics,2,25000,19000,10.0,Credit Card,West,Ahmedabad,Shipped,431
+ORD10890,2025-01-03,CUST067,Smartphone,Electronics,2,25000,19000,5.0,Cash on Delivery,North,Jaipur,Delivered,100
+ORD10891,2025-09-26,CUST138,Laptop,Electronics,4,55000,42000,5.0,UPI,South,Bengaluru,Delivered,53
+ORD10892,2025-11-21,CUST219,Desk,Furniture,4,12000,8500,5.0,Cash on Delivery,North,Jaipur,Delivered,442
+ORD10893,2025-01-04,CUST168,Office Chair,Furniture,4,8500,6000,10.0,Debit Card,South,Chennai,Returned,308
+ORD10894,2025-10-23,CUST141,Shoes,Fashion,1,3500,2200,15.0,Debit Card,East,Bhubaneswar,Cancelled,351
+ORD10895,2025-08-20,CUST258,Laptop,Electronics,1,55000,42000,10.0,UPI,West,Mumbai,Shipped,386
+ORD10896,2025-11-04,CUST107,Smartwatch,Electronics,4,5000,3300,10.0,Debit Card,North,Lucknow,Delivered,71
+ORD10897,2025-08-04,CUST039,Bookshelf,Furniture,1,7000,4800,15.0,Cash on Delivery,East,Kolkata,Delivered,152
+ORD10898,2025-09-25,CUST057,T-Shirt,Fashion,1,900,500,5.0,Cash on Delivery,West,Pune,Delivered,402
+ORD10899,2025-01-05,CUST117,Headphones,Electronics,2,2500,1600,10.0,Credit Card,South,Chennai,Delivered,431
+ORD10900,2025-03-08,CUST066,Smartwatch,Electronics,4,5000,3300,10.0,UPI,North,Lucknow,Returned,286
+ORD10901,2025-08-14,CUST199,Smartwatch,Electronics,2,5000,3300,0.0,UPI,South,Hyderabad,Shipped,445
+ORD10902,2025-04-01,CUST089,Mixer Grinder,Home Appliances,2,3500,2300,5.0,Net Banking,West,Ahmedabad,Delivered,263
+ORD10903,2025-02-18,CUST114,Shoes,Fashion,4,3500,2200,0.0,Cash on Delivery,West,Pune,Returned,327
+ORD10904,2025-10-20,CUST138,Smartphone,Electronics,2,25000,19000,10.0,Credit Card,West,Ahmedabad,Delivered,369
+ORD10905,2025-03-28,CUST156,Bookshelf,Furniture,1,7000,4800,10.0,Credit Card,North,Lucknow,Cancelled,147
+ORD10906,2025-11-21,CUST231,T-Shirt,Fashion,3,900,500,15.0,Cash on Delivery,East,Patna,Delivered,230
+ORD10907,2025-12-16,CUST128,Shoes,Fashion,2,3500,2200,20.0,Credit Card,East,Patna,Returned,460
+ORD10908,2025-02-07,CUST053,Office Chair,Furniture,1,8500,6000,15.0,Credit Card,East,Patna,Returned,275
+ORD10909,2025-03-05,CUST039,Headphones,Electronics,1,2500,1600,20.0,Net Banking,South,Hyderabad,Cancelled,228
+ORD10910,2025-03-05,CUST097,Headphones,Electronics,1,2500,1600,15.0,Credit Card,South,Chennai,Delivered,60
+ORD10911,2025-01-21,CUST164,Mixer Grinder,Home Appliances,3,3500,2300,5.0,Debit Card,North,Delhi,Returned,140
+ORD10912,2025-07-12,CUST159,Smartphone,Electronics,3,25000,19000,10.0,Net Banking,East,Patna,Returned,340
+ORD10913,2025-02-12,CUST191,Laptop,Electronics,2,55000,42000,15.0,Debit Card,South,Hyderabad,Delivered,500
+ORD10914,2025-03-10,CUST188,Smartphone,Electronics,1,25000,19000,5.0,Cash on Delivery,East,Bhubaneswar,Returned,467
+ORD10915,2025-03-17,CUST177,Coffee Maker,Home Appliances,4,4500,3000,20.0,Debit Card,North,Lucknow,Delivered,98
+ORD10916,2025-07-08,CUST230,Office Chair,Furniture,1,8500,6000,20.0,Net Banking,East,Kolkata,Delivered,395
+ORD10917,2025-09-11,CUST257,Shoes,Fashion,3,3500,2200,10.0,Cash on Delivery,West,Pune,Delivered,193
+ORD10918,2025-07-27,CUST155,Smartwatch,Electronics,3,5000,3300,10.0,Credit Card,South,Chennai,Delivered,198
+ORD10919,2025-06-23,CUST097,Mixer Grinder,Home Appliances,1,3500,2300,10.0,Cash on Delivery,West,Ahmedabad,Returned,313
+ORD10920,2025-07-19,CUST248,Desk,Furniture,3,12000,8500,20.0,Net Banking,West,Pune,Delivered,497
+ORD10921,2025-04-03,CUST094,Smartphone,Electronics,4,25000,19000,0.0,Credit Card,South,Hyderabad,Delivered,320
+ORD10922,2025-03-25,CUST232,Desk,Furniture,1,12000,8500,20.0,Cash on Delivery,West,Mumbai,Cancelled,391
+ORD10923,2025-06-08,CUST073,Bookshelf,Furniture,2,7000,4800,20.0,UPI,West,Ahmedabad,Returned,274
+ORD10924,2025-03-31,CUST220,Mixer Grinder,Home Appliances,1,3500,2300,10.0,Cash on Delivery,South,Chennai,Shipped,354
+ORD10925,2025-02-11,CUST058,Coffee Maker,Home Appliances,4,4500,3000,0.0,Credit Card,South,Bengaluru,Delivered,332
+ORD10926,2025-05-09,CUST153,T-Shirt,Fashion,3,900,500,5.0,Cash on Delivery,West,Pune,Delivered,475
+ORD10927,2025-11-22,CUST082,Desk,Furniture,1,12000,8500,5.0,Credit Card,East,Kolkata,Delivered,363
+ORD10928,2025-04-13,CUST209,Desk,Furniture,4,12000,8500,15.0,Debit Card,West,Pune,Delivered,114
+ORD10929,2025-08-25,CUST046,Office Chair,Furniture,2,8500,6000,0.0,Debit Card,West,Mumbai,Cancelled,308
+ORD10930,2025-11-29,CUST024,Bookshelf,Furniture,1,7000,4800,5.0,Net Banking,East,Kolkata,Delivered,84
+ORD10931,2025-08-31,CUST193,Shoes,Fashion,2,3500,2200,0.0,Credit Card,East,Patna,Delivered,316
+ORD10932,2025-11-21,CUST075,Smartwatch,Electronics,3,5000,3300,20.0,Credit Card,East,Patna,Delivered,443
+ORD10933,2025-06-27,CUST259,Backpack,Accessories,3,1800,1100,10.0,Net Banking,South,Hyderabad,Returned,88
+ORD10934,2025-06-10,CUST132,Laptop,Electronics,1,55000,42000,5.0,Net Banking,East,Kolkata,Delivered,432
+ORD10935,2025-10-15,CUST188,Office Chair,Furniture,4,8500,6000,20.0,Debit Card,West,Mumbai,Cancelled,50
+ORD10936,2025-08-05,CUST065,Desk,Furniture,4,12000,8500,5.0,Cash on Delivery,West,Mumbai,Delivered,132
+ORD10937,2025-04-17,CUST181,Desk,Furniture,1,12000,8500,15.0,Net Banking,South,Chennai,Delivered,406
+ORD10938,2025-06-29,CUST169,Smartwatch,Electronics,1,5000,3300,5.0,Credit Card,West,Mumbai,Cancelled,483
+ORD10939,2025-04-10,CUST047,Smartphone,Electronics,4,25000,19000,15.0,Cash on Delivery,West,Pune,Cancelled,152
+ORD10940,2025-09-30,CUST243,Coffee Maker,Home Appliances,4,4500,3000,15.0,UPI,West,Pune,Returned,208
+ORD10941,2025-01-02,CUST099,Laptop,Electronics,4,55000,42000,10.0,Credit Card,West,Pune,Returned,402
+ORD10942,2025-01-02,CUST123,Coffee Maker,Home Appliances,3,4500,3000,0.0,Cash on Delivery,North,Jaipur,Delivered,260
+ORD10943,2025-01-29,CUST106,Smartwatch,Electronics,3,5000,3300,15.0,Credit Card,East,Bhubaneswar,Delivered,404
+ORD10944,2025-10-28,CUST100,Laptop,Electronics,2,55000,42000,0.0,Credit Card,West,Pune,Delivered,482
+ORD10945,2025-05-23,CUST260,T-Shirt,Fashion,2,900,500,5.0,Credit Card,North,Lucknow,Delivered,206
+ORD10946,2025-06-21,CUST114,T-Shirt,Fashion,3,900,500,10.0,Credit Card,North,Delhi,Cancelled,319
+ORD10947,2025-09-12,CUST196,Coffee Maker,Home Appliances,4,4500,3000,5.0,UPI,North,Lucknow,Delivered,161
+ORD10948,2025-01-08,CUST069,Smartwatch,Electronics,4,5000,3300,5.0,Cash on Delivery,West,Pune,Delivered,285
+ORD10949,2025-05-06,CUST029,Coffee Maker,Home Appliances,3,4500,3000,5.0,Debit Card,North,Delhi,Delivered,253
+ORD10950,2025-03-03,CUST179,T-Shirt,Fashion,3,900,500,15.0,Cash on Delivery,South,Hyderabad,Returned,74
+ORD10951,2025-11-07,CUST246,Bookshelf,Furniture,3,7000,4800,0.0,UPI,North,Jaipur,Delivered,179
+ORD10952,2025-12-18,CUST069,Bookshelf,Furniture,2,7000,4800,20.0,Credit Card,North,Lucknow,Delivered,159
+ORD10953,2025-09-13,CUST162,Bookshelf,Furniture,4,7000,4800,10.0,Cash on Delivery,East,Kolkata,Cancelled,432
+ORD10954,2025-02-24,CUST026,Backpack,Accessories,3,1800,1100,20.0,UPI,West,Ahmedabad,Cancelled,52
+ORD10955,2025-07-17,CUST298,Shoes,Fashion,3,3500,2200,15.0,Net Banking,West,Pune,Delivered,235
+ORD10956,2025-01-11,CUST085,Smartwatch,Electronics,3,5000,3300,5.0,Net Banking,North,Lucknow,Delivered,195
+ORD10957,2025-06-30,CUST030,Bookshelf,Furniture,3,7000,4800,5.0,Credit Card,West,Ahmedabad,Delivered,304
+ORD10958,2025-10-03,CUST261,T-Shirt,Fashion,4,900,500,0.0,Debit Card,North,Jaipur,Returned,324
+ORD10959,2025-08-03,CUST190,Shoes,Fashion,3,3500,2200,5.0,Debit Card,North,Jaipur,Delivered,76
+ORD10960,2025-07-07,CUST097,Coffee Maker,Home Appliances,1,4500,3000,0.0,Credit Card,South,Bengaluru,Delivered,278
+ORD10961,2025-04-16,CUST282,Shoes,Fashion,4,3500,2200,20.0,Cash on Delivery,West,Pune,Cancelled,226
+ORD10962,2025-04-17,CUST018,Bookshelf,Furniture,3,7000,4800,0.0,Credit Card,North,Delhi,Shipped,284
+ORD10963,2025-06-03,CUST134,Coffee Maker,Home Appliances,4,4500,3000,0.0,Credit Card,South,Bengaluru,Cancelled,290
+ORD10964,2025-05-26,CUST273,Coffee Maker,Home Appliances,3,4500,3000,0.0,Cash on Delivery,South,Chennai,Delivered,121
+ORD10965,2025-09-03,CUST140,Desk,Furniture,2,12000,8500,5.0,Debit Card,West,Ahmedabad,Cancelled,472
+ORD10966,2025-05-31,CUST141,Desk,Furniture,4,12000,8500,5.0,Cash on Delivery,North,Jaipur,Delivered,138
+ORD10967,2025-07-02,CUST052,Coffee Maker,Home Appliances,3,4500,3000,0.0,Credit Card,West,Pune,Delivered,128
+ORD10968,2025-07-05,CUST131,Smartphone,Electronics,2,25000,19000,10.0,Credit Card,North,Jaipur,Delivered,279
+ORD10969,2025-07-11,CUST210,Desk,Furniture,1,12000,8500,10.0,UPI,South,Bengaluru,Delivered,372
+ORD10970,2025-11-19,CUST129,Bookshelf,Furniture,3,7000,4800,0.0,Debit Card,West,Pune,Delivered,143
+ORD10971,2025-11-29,CUST173,Smartphone,Electronics,1,25000,19000,5.0,Debit Card,East,Bhubaneswar,Cancelled,342
+ORD10972,2025-11-10,CUST143,Smartwatch,Electronics,2,5000,3300,20.0,Net Banking,East,Patna,Returned,468
+ORD10973,2025-10-26,CUST192,Coffee Maker,Home Appliances,4,4500,3000,5.0,Debit Card,South,Hyderabad,Delivered,482
+ORD10974,2025-11-18,CUST282,Shoes,Fashion,2,3500,2200,10.0,Cash on Delivery,South,Bengaluru,Delivered,281
+ORD10975,2025-10-31,CUST294,Coffee Maker,Home Appliances,1,4500,3000,20.0,Cash on Delivery,South,Hyderabad,Delivered,372
+ORD10976,2025-10-10,CUST044,Laptop,Electronics,2,55000,42000,10.0,Net Banking,West,Pune,Delivered,247
+ORD10977,2025-06-17,CUST076,Laptop,Electronics,2,55000,42000,15.0,Net Banking,East,Patna,Delivered,436
+ORD10978,2025-08-03,CUST085,Shoes,Fashion,2,3500,2200,20.0,Debit Card,West,Ahmedabad,Shipped,442
+ORD10979,2025-08-04,CUST094,Headphones,Electronics,3,2500,1600,0.0,Cash on Delivery,East,Patna,Delivered,472
+ORD10980,2025-01-31,CUST105,Bookshelf,Furniture,3,7000,4800,0.0,Debit Card,East,Bhubaneswar,Delivered,179
+ORD10981,2025-04-11,CUST180,Smartphone,Electronics,1,25000,19000,5.0,Cash on Delivery,South,Bengaluru,Shipped,438
+ORD10982,2025-05-28,CUST121,Smartwatch,Electronics,2,5000,3300,0.0,Credit Card,West,Ahmedabad,Cancelled,435
+ORD10983,2025-11-19,CUST261,T-Shirt,Fashion,1,900,500,0.0,Cash on Delivery,South,Hyderabad,Delivered,356
+ORD10984,2025-11-09,CUST094,Bookshelf,Furniture,3,7000,4800,10.0,Cash on Delivery,South,Hyderabad,Delivered,381
+ORD10985,2025-07-24,CUST069,Desk,Furniture,1,12000,8500,10.0,UPI,South,Bengaluru,Delivered,429
+ORD10986,2025-01-16,CUST205,Smartwatch,Electronics,2,5000,3300,15.0,Cash on Delivery,East,Bhubaneswar,Delivered,381
+ORD10987,2025-09-13,CUST178,Backpack,Accessories,4,1800,1100,15.0,Cash on Delivery,South,Hyderabad,Delivered,186
+ORD10988,2025-01-15,CUST214,Mixer Grinder,Home Appliances,4,3500,2300,0.0,UPI,North,Lucknow,Delivered,368
+ORD10989,2025-11-01,CUST060,Shoes,Fashion,2,3500,2200,15.0,Debit Card,North,Lucknow,Delivered,139
+ORD10990,2025-09-02,CUST153,Smartphone,Electronics,2,25000,19000,0.0,Cash on Delivery,South,Bengaluru,Delivered,338
+ORD10991,2025-07-05,CUST158,Backpack,Accessories,2,1800,1100,20.0,Debit Card,South,Hyderabad,Shipped,325
+ORD10992,2025-03-18,CUST018,Backpack,Accessories,2,1800,1100,0.0,UPI,South,Chennai,Delivered,280
+ORD10993,2025-01-19,CUST101,Desk,Furniture,3,12000,8500,10.0,Credit Card,North,Delhi,Delivered,169
+ORD10994,2025-11-26,CUST218,T-Shirt,Fashion,2,900,500,20.0,Cash on Delivery,West,Mumbai,Shipped,60
+ORD10995,2025-09-29,CUST012,Laptop,Electronics,3,55000,42000,5.0,Debit Card,South,Bengaluru,Delivered,65
+ORD10996,2025-08-16,CUST297,Office Chair,Furniture,4,8500,6000,0.0,Debit Card,North,Lucknow,Delivered,337
+ORD10997,2025-05-17,CUST259,T-Shirt,Fashion,4,900,500,20.0,Net Banking,North,Lucknow,Cancelled,366
+ORD10998,2025-02-24,CUST226,Backpack,Accessories,1,1800,1100,20.0,Cash on Delivery,North,Delhi,Delivered,247
+ORD10999,2025-07-01,CUST285,T-Shirt,Fashion,3,900,500,5.0,Credit Card,East,Kolkata,Delivered,80
+ORD11000,2025-09-13,CUST025,Shoes,Fashion,2,3500,2200,20.0,Debit Card,West,Mumbai,Delivered,240
+ORD10051,2025-11-07,CUST269,Smartwatch,Electronics,4,5000,3300,15.0,Credit Card,North,Jaipur,Delivered,193
