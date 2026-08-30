@@ -370,33 +370,6 @@ plt.tight_layout()
 
 st.pyplot(fig)
 
-ax.plot(
-    monthly_sales["Month_Name"],
-    monthly_sales["Revenue"],
-    marker="o"
-)
-
-ax.set_title(
-    "Monthly Revenue"
-)
-
-ax.set_xlabel(
-    "Month"
-)
-
-ax.set_ylabel(
-    "Revenue (₹)"
-)
-
-plt.xticks(
-    rotation=45
-)
-
-plt.tight_layout()
-
-st.pyplot(fig)
-
-
 
 # Add Monthly Profit
 fig, ax = plt.subplots(
